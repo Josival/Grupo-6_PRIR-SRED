@@ -1,5 +1,6 @@
 
-  Tabela 1: Definições de endereços IPs da Rede e Nomes de Hosts
+  ## Tabela 1: Definições de endereços IPs da Rede e Nomes de Hosts
+  ```
   ------------------------------------------------------
   |  DESCRICAO  |  IP              |   hostname        |
   ------------------------------------------------------
@@ -16,8 +17,11 @@
   | VM2-PC4     |  192.168.24.88   |    srv-vm2-pc4    |
   
   ------------------------------------------------------
+  ```
+   
   
- Tabela 2: Definições de endereços IPs da Rede, Nomes de Hosts, FQDN e aliase
+ ## Tabela 2: Definições de endereços IPs da Rede, Nomes de Hosts, FQDN e aliase
+ ```
  -----------------------------------------------------------------------------------------------------------
  |  DESCRICAO  |  IP             |   hostname        |               FQDN               |     aliase       |
  -----------------------------------------------------------------------------------------------------------
@@ -31,3 +35,4 @@
  | VM2-PC4     |  192.168.24.88  |   srv-vm2-pc4     | asa.grupo6-924.ifalara.net       |       asa        |
  
  -----------------------------------------------------------------------------------------------------------
+ ```
