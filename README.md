@@ -8,7 +8,7 @@
 |                                                   | VM2-PC1 | 
 |[Josival Costa](https://github.com/Josival)    | VM1-PC2 | 
 |                                                   | VM2-PC2 |
-|[Clara Leão]() | VM1-PC3 | 
+|[Clara Leão](https://github.com/mariaclaraleao) | VM1-PC3 | 
 |                                                   | VM2-PC3 |
 |Outro cara  | VM1-PC4 | 
 |                                                   | VM2-PC4 |
@@ -36,9 +36,9 @@ Tabela 3: PC's físicos reservados para cada máquina
 -------------------------------
 |  DESCRICAO  |   PC FÍSICO    |
 -------------------------------
-| PC1         | LAB 1 - PC num |
-| PC2         | LAB 1 - PC num |
-| PC3         | LAB 1 - PC num |
-| PC4         | LAB 1 - PC num |
+| PC1         | LAB 1 - PC 09  |
+| PC2         | LAB 1 - PC 10  | 
+| PC3         | LAB 1 - PC 11  |
+| PC4         | LAB 1 - PC 12  |
 -------------------------------
 ```
