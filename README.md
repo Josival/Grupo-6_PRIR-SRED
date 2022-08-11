@@ -1,6 +1,6 @@
 # PROJETO E INFRAESTRUTURA DE REDES - GRUPO 6  - 924
 
-### Tabela 1: Responsáveis por máquina
+### Tabela 1: Responsáveis por máquina e Designação dos endereços IPs respectivos
  
 |                    Responsável                      | Máquina |      IP       |
 |-----------------------------------------------------|---------|---------------|
@@ -13,7 +13,7 @@
 |Outro cara                                           | VM1-PC4 | 192.168.24.86 |
 |                                                     | VM2-PC4 | 192.168.24.87 |
 
-## Informações 
+## Configuração do serviço de nomes estáticos
 
 ```
 Tabela 2: Definições de endereços IPs da Rede e Nomes de Hosts
