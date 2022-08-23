@@ -8,7 +8,7 @@ Repositório destinado as disciplinas técnicas de redes do quarto ano do ensino
  
 |                    ALUNO                          |          E-MAIL          |
 |---------------------------------------------------|--------------------------|
-|[Matheus Ataide](https://github.com/Matheus-Ataide)| dov1@aluno.ifal.edu.br   | 
+|[Matheus Ataide](https://github.com/Matheus-Ataide)| mao3@aluno.ifal.edu.br   | 
 |[Josival Costa](https://github.com/Josival)        | jcs28@aluno.ifal.edu.br  | 
 |[Clara Leão](https://github.com/mariaclaraleao)    | mclan1@aluno.ifal.edu.br  | 
 |Outro Cara                                         |                          |
