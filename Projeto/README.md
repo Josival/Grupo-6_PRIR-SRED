@@ -4,7 +4,7 @@ Espaço destinado para o projeto do segundo bimestre proposto pelo professor [Al
 
 ### Roteiro geral do projeto
 #### Acesse as configurações de cada PC, selecionando o PC desejado:
-- [PC 1]()
+- [PC 1](https://github.com/Josival/TrabalhoRedes/blob/main/Projeto/PC's/PC1/README.md)
 - [PC 2]()
 - [PC 3]()
 - [PC 4]()
