@@ -17,7 +17,7 @@ Repositório destinado as disciplinas técnicas de redes do quarto ano do ensino
 
 ### Projeto segundo bimestre 
 #### Criando uma rede virtual com Ubuntu server
-- Visualização geral do projeto [aqui](https://github.com/Josival/TrabalhoRedes/tree/main/Projeto#readme).
+- Visualização geral do projeto [aqui](https://github.com/Josival/TrabalhoRedes/blob/main/Projeto/README.md).
 - Tabela com endereçamento IP [aqui](https://github.com/Josival/TrabalhoRedes/blob/main/tabelas.md).
 - Roteiro/tutorial [aqui]()
 
