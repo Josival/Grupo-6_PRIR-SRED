@@ -10,15 +10,14 @@ Repositório destinado as disciplinas técnicas de redes do quarto ano do ensino
 |---------------------------------------------------|--------------------------|
 |[Matheus Ataide](https://github.com/Matheus-Ataide)| mao3@aluno.ifal.edu.br   | 
 |[Josival Costa](https://github.com/Josival)        | jcs28@aluno.ifal.edu.br  | 
-|[Clara Leão](https://github.com/mariaclaraleao)    | mclan1@aluno.ifal.edu.br  | 
+|[Clara Leão](https://github.com/mariaclaraleao)    | mclan1@aluno.ifal.edu.br | 
 |Outro Cara                                         |                          |
 
 # 
 
 ### Projeto segundo bimestre 
-#### Criando uma rede virtual com Ubuntu server
-- Visualização geral do projeto [aqui](https://github.com/Josival/TrabalhoRedes/blob/main/Projeto/README.md).
-- Tabela com endereçamento IP [aqui](https://github.com/Josival/TrabalhoRedes/blob/main/tabelas.md).
-- Topologia da Rede [aqui]()
+- [Visualização geral do projeto](https://github.com/Josival/TrabalhoRedes/blob/main/Projeto/README.md)
+- [Tabelas de definições de nomes e IPs para todas as VMs](https://github.com/Josival/TrabalhoRedes/blob/main/Projeto/Tabelas.md)
+- [Topologia da Rede]()
 
 #
