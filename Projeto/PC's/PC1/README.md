@@ -7,4 +7,4 @@
 
 
 ##### Antes de ir para o passo 4, [configure ás maquinas virtuais do PC2](). Se o PC2 já estiver configurado, continue os seguintes passos:
-- [Passo 4]()
+- [Passo 4](https://github.com/Josival/TrabalhoRedes/blob/main/Projeto/PC's/PC1-PC2/Passo4.md)
