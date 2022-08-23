@@ -48,8 +48,8 @@ Foto mostrando o sudo nano, após as alterações:
 
 ####    Nas configurações de rede das máquinas virtuais, alterar do modo NAT para a rede interna, como mostrado na foto:
 
-####          Para verificar se as máquinas estão se conectando usa-se o ping, como pode ser visto a |seguir:
-##### Da VM1-PC1 para a VM2-PC1:
+#####          Para verificar se as máquinas estão se conectando usa-se o ping, como pode ser visto a |seguir:
+###### Da VM1-PC1 para a VM2-PC1:
           ping 192.168.24.82
-##### Da VM2-PC1 para a VM1-PC1:
+###### Da VM2-PC1 para a VM1-PC1:
           ping 192.168.24.81
