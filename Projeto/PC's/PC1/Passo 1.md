@@ -33,16 +33,16 @@ adminifal
 
 Para a criação de subpastas, o diretório que você deseja colocar essas subpastas deve está como diretório corrente/atual. Utilizando o comando ``cd/<nome do diretório completo que você deseja colocar um subdiretório>``. Se você deseja adicionar em um subdiretório, você deverá colocar no cd/ todos os diretórios antecedentes.
 
-#### Criar os diretórios de usuário
+#### Criar os diretórios para a criação de usuário
  ```bash
  cd /labredes 
  sudo mkdir images
- cd ./images colocando o ./ você irá acessar o diretório anterior e o subdiretório que você quer acessar atualmente. Seria o mesmo que: cd /labredes/images
+ cd ./images #Colocando o ./ você irá acessar o diretório anterior e o subdiretório que você quer acessar atualmente. Seria o mesmo que: cd /labredes/images
  sudo mkdir original 
  cd ./original
- ls -la Para ver como está ficando com os subdiretórios
+ ls -la #Para ver como está ficando com os subdiretórios
  ```
-#### Criar os diretórios da Máquina Virtual
+#### Criar os diretórios para a criação da Máquina Virtual
 ```bash
  cd ~
  sudo mkdir labredes/VM
@@ -51,20 +51,20 @@ Para a criação de subpastas, o diretório que você deseja colocar essas subpa
 ```
 
 
-### - Adiciona o usuário ``aluno`` ao grupo ``redes``
-Para ter uma maior liberdade na manipulação das pastas/subpastas, iremos dar mais permissões a elas com essa etapa 
+### - Adicionar o usuário ``aluno`` ao grupo ``redes``
+Para ter uma maior liberdade na manipulação das pastas/subpastas, iremos dar mais permissões a elas com essa etapa. Comece utilizando esse comando: 
 ```bash
  sudo usermod -aG redes aluno
 ```
 * Modificando as permissões de arquivos e pastas
    * ``chown`` modifica o dono da pasta labredes para o usuario nobody e grupo nogroup
    * ``chgrp`` altera o proprietário de grupo do diretório ``/labredes`` para o grupo ``redes``
-   * ``chmod`` altera as permissões do diretório para escrita pelos membros do grupo
+   * ``chmod`` altera as permissões do diretório para escrita pelos membros do grupo (Para mais informações como utilizar o chmod, entre neste site: https://www.pluralsight.com/blog/it-ops/linux-file-permissions; Para saber qual número utilizar, abra este site: https://chmodcommand.com/chmod-777/)
 ```bash
  sudo chown -R nobody:nogroup /labredes
  ls -la
  sudo chgrp -R redes /labredes
- sudo chmod -R 771 /labredes 
+ sudo chmod -R 771 /labredes #define permissões para que (U)ser/proprietário possa ler, escrever e executar. (G)roup pode ler, escrever e executar. (O)outros não podem ler, não podem escrever e podem executar
  ls -la
  getent group  #lista grupos: observe no fim da lista que os usuários também possuem grupos
 ```
@@ -72,13 +72,13 @@ Para ter uma maior liberdade na manipulação das pastas/subpastas, iremos dar m
 
 ### - Instalação da imagem do Linux(Ubuntu) para utilizarmos nas Máquina Virtuais
 
-Se você estará fazendo esse projeto com o Professor Alaelson do IFAL - Campus Arapiraca, ele irá disponibilizar comandos de instalação das imagens. Temos 3:
+Se você estará fazendo esse projeto com o Professor Alaelson do IFAL - Campus Arapiraca, ele irá disponibilizar comandos de instalação das imagens. Temos 3 imagens:
 ```
 mini.iso
 ubuntu-20.04.4-desktop-amd64.iso
 ubuntu-22.04-live-server-amd64.iso
 ```
-Sugerimos que utilize a mais básica: ``mini.iso``. Mas claro que iremos mostrar a instalação das 3 imagens. Colocaremos 3 formas de fazer a instalação, pelo: Nautilus, Terminal e Windows Explorer (Sugerimos pelo terminal)
+Sugerimos que utilize a mais básica: ``mini.iso``. Mas claro que iremos mostrar a instalação das 3 imagens. Também colocaremos 3 formas de fazer a instalação, pelo: Nautilus, Terminal e Windows Explorer (Sugerimos e fizemos pelo terminal)
 
 #### Pelo Nautilus, acessar:
 
