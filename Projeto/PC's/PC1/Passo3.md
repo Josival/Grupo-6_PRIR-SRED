@@ -1,4 +1,4 @@
-# Passo 3 - Configurações iniciais das Máquinas Virtuais: 
+# Passo 3 - Configurações iniciais das Máquinas Virtuais
 
 ### > Na VM1-PC1
 
