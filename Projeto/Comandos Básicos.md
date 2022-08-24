@@ -16,6 +16,8 @@
   
 - ``cd ~``: Estabelece a raiz inicial do computador como diretório corrente.
 
+- ``cd ..``: Retorna para diretório anterior
+
 * Modificando as permissões de arquivos e pastas:
 
    * ``chown`` modifica o proprietário da pasta labredes para o usuario nobody e grupo nogroup.
