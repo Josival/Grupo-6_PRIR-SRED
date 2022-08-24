@@ -175,3 +175,6 @@
 ######    Usar o comando 'exit' para sair das VMs conectadas anteriormente!
 
 -----------------------------------------------------------------------------------------------------
+
+### > Conclusão
+Após o término desse Passo 5, direcione para o [Próximo Passo](https://github.com/Josival/TrabalhoRedes/blob/main/Projeto/PC's/PC1-PC2/Passo6.md)
