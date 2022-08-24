@@ -1,4 +1,4 @@
-# Passo 6 | Acesso à VM pelo Host-Olny
+# Passo 6 - Acesso à VM pelo Host-Olny
 
 ###  Fazer login no usuário:
     administrador
