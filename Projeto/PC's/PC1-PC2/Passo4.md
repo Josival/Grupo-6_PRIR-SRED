@@ -17,3 +17,6 @@
       ping 192.168.24.82
 ######    Da VM2-PC1  pra a VM2-PC2
       ping 192.168.24.84
+
+### > Conclusão
+Após o término desse Passo 4, direcione para o [Próximo Passo](https://github.com/Josival/TrabalhoRedes/blob/main/Projeto/PC's/PC1-PC2/Passo5.md)
