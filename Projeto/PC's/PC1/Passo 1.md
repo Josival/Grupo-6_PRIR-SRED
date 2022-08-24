@@ -103,5 +103,5 @@ Abra o Windows Explorer digite o comando na barra de endereços: \\192.168.101.1
 ```
 
 
-### - Conclusão
+### > Conclusão
 Após o término desse Passo 1, direcione para o [Próximo Passo](https://github.com/Josival/TrabalhoRedes/blob/main/Projeto/PC's/PC1/Passo%202.md)
