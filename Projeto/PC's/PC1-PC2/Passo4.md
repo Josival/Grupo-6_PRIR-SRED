@@ -1,4 +1,4 @@
-# Passo 4 | Conexão entre as VMs via cabo ethernet
+# Passo 4 - Conexão entre as VMs via cabo ethernet
 
 ####  Para fazer a comunicação entre as VMS de pcs diferentes, usando a conexão ponto a ponto, usa-se o cabo ethernet. 
 ##### Como pode ser visto na foto:
