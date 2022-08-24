@@ -1,6 +1,6 @@
 ## Passo 3 | Configurações iniciais das Máquinas Virtuais: 
 
-### Na VM1-PC1
+### - Na VM1-PC1
 
 ####  Usar o usuário da VM:
      administrador
@@ -22,7 +22,7 @@ Foto mostrando o sudo nano, como está no momento(sem nenhuma alteração):
      sudo netplan apply
 Foto mostrando o sudo nano, após as alterações:
 
-### Na VM2-PC1
+### - Na VM2-PC1
 
 ####  Usar o usuário da VM:
      administrador
@@ -54,5 +54,5 @@ Foto mostrando o sudo nano, após as alterações:
 ###### Da VM2-PC1 para a VM1-PC1:
      ping 192.168.24.81
 
-### Conclusão
+### - Conclusão
 Antes de ir para o passo 4, [configure ás maquinas virtuais do PC2](). Se o PC2 já estiver configurado, continue no [Próximo Passo](https://github.com/Josival/TrabalhoRedes/blob/main/Projeto/PC's/PC1-PC2/Passo4.md):
