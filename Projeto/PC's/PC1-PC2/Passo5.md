@@ -1,4 +1,4 @@
-# Passo 5 | Usando o SSH nas máquinas virtuais
+# Passo 5 - Usando o SSH nas máquinas virtuais
 
 ### Na VM1-PC1 
 
