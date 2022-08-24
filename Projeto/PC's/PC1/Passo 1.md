@@ -11,12 +11,13 @@ su redes
 ```
 #### - Senha para entrar no usuário ``redes``
 ```bash
-adminifal
+admin@Lab92
 ```
+Obs.: Ao digitar a senha no terminal, ela não estará visível para o usuário, mas estará sendo escrita ocultamente.
 
 
 ### > Instalar Net-tools
-Será para ter acesso a um pacote com várias ferramentas úteis para uso na sua rede local
+Essa instalação será para ter acesso a um pacote com várias ferramentas úteis para uso na sua rede local
 ```bash
 sudo apt install net-tools
 ```
@@ -24,7 +25,6 @@ sudo apt install net-tools
 
 ### > Criar pasta ``labredes`` na raiz ``/``
 ```bash
- cd ~ #Vai deixar a raiz inicial do computador como diretório corrente
  sudo mkdir /labredes
 ```
 
@@ -51,18 +51,19 @@ Para a criação de subpastas, o diretório que você deseja colocar essas subpa
  ```
 #### - Criar os diretórios para a criação da Máquina Virtual
 ```bash
- cd ~
- sudo mkdir labredes/VM
- sudo mkdir labredes/VM/924
- sudo mkdir labredes/VM/924/<student> # substitua <student> pelo seu nome
+ cd /labredes
+ sudo mkdir VM
+ cd ./VM
+ sudo mkdir 924
+ cd ./924
+ sudo mkdir <student> # substitua <student> pelo seu nome
+ cd ./<student>
 ```
 
 
 ### > Adicionar o usuário ``aluno`` ao grupo ``redes``
-Para ter uma maior liberdade na manipulação das pastas/subpastas, iremos dar mais permissões a elas com essa etapa. Comece utilizando esse comando: 
-```bash
- sudo usermod -aG redes aluno
-```
+Para ter uma maior liberdade na manipulação das pastas/subpastas, iremos dar mais permissões a elas com essa etapa 
+
 * Modificando as permissões de arquivos e pastas
    * ``chown`` modifica o dono da pasta labredes para o usuario nobody e grupo nogroup
    * ``chgrp`` altera o proprietário de grupo do diretório ``/labredes`` para o grupo ``redes``
@@ -79,34 +80,18 @@ Para ter uma maior liberdade na manipulação das pastas/subpastas, iremos dar m
 
 ### > Instalação da imagem do Linux(Ubuntu) para utilizarmos nas Máquina Virtuais
 
-Se você estará fazendo esse projeto com o Professor Alaelson do IFAL - Campus Arapiraca, ele irá disponibilizar comandos de instalação das imagens. Temos 3 imagens:
+Se você está fazendo esse projeto com o Professor Alaelson do IFAL - Campus Arapiraca, ele irá disponibilizar comandos de instalação da seguinte imagem:
 ```
-mini.iso
-ubuntu-20.04.4-desktop-amd64.iso
-ubuntu-22.04-live-server-amd64.iso
+ubuntu-server-mini.ova
 ```
-Sugerimos que utilize a mais básica: ``mini.iso``. Mas claro que iremos mostrar a instalação das 3 imagens. Também colocaremos 3 formas de fazer a instalação, pelo: Nautilus, Terminal e Windows Explorer (Sugerimos e fizemos pelo terminal)
 
-#### - Pelo Nautilus, acessar:
-
-	smb://192.168.101.10/iso-images
-	- user: aluno, senha: aluno
-  - Copie os arquivos da pasta public para a pasta  ``/labredes/images/original``
-
-#### - Pelo Terminal 
+#### - Instalação pelo Terminal 
 
 ```shell
 cd /labredes/images/original
 ls -la #verifique no resultado a existência dos arquivos .iso
 # Se não houver os arquivos iso na pasta /labredes/images/original deve-se copiá-los com os comandos:
-scp aluno@192.168.101.10:~/Public/iso-images/mini.iso /labredes/images/original
-scp aluno@192.168.101.10:~/Public/iso-images/ubuntu-20.04.4-desktop-amd64.iso /labredes/images/original
-scp aluno@192.168.101.10:~/Public/iso-images/ubuntu-22.04-live-server-amd64.iso /labredes/images/original
-```
-
-#### - No Windows Explorer
-```
-Abra o Windows Explorer digite o comando na barra de endereços: \\192.168.101.10\iso-images
+scp aluno@192.168.101.10:~/Public/iso-images/ubuntu-server-mini.ova /labredes/images/original
 ```
 
 
