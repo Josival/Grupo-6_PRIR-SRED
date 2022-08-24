@@ -12,5 +12,5 @@ Para a criação das VMs, vamos importar a imagem .OVA, ele será necessário pa
 
 * Um ponto a ressaltar é na `configuração de "Política de Endereço MAC"`, onde é preciso que deixe como `Gerar novos endereços MAC para todas as placas de rede` para que para cada interface de rede seja criado um novo endereço MAC.
 
-### - Conclusão
+### > Conclusão
 Após o término desse Passo 2, direcione para o [Próximo Passo](https://github.com/Josival/TrabalhoRedes/blob/main/Projeto/PC's/PC1/Passo3.md)
