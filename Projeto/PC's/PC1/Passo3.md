@@ -1,45 +1,45 @@
-## Passo 3 | Configurações iniciais das Máquinas Virtuais: 
+# Passo 3 | Configurações iniciais das Máquinas Virtuais: 
 
-### - Na VM1-PC1
+## - Na VM1-PC1
 
-####  Usar o usuário da VM:
+###  Usar o usuário da VM:
      administrador
-##### Senha:
+#### Senha:
      adminifal
 
-####   Instalação do net-tools:
+###   Instalação do net-tools:
      sudo apt install net-tools -y  
  
-####    Para poder editar as configurações de ips, máscara de hosts, dhcp, usa-se:
+###    Para poder editar as configurações de ips, máscara de hosts, dhcp, usa-se:
      sudo nano /etc/netplan/01-netcfg.yaml
           
 Foto mostrando o sudo nano, como está no momento(sem nenhuma alteração):
 
-####    Mudança no sudo nano:
+###    Mudança no sudo nano:
      addresses: [192.168.24.81/28]     => IP estático da VM1-PC1
 
-####    Para aplicar as mudanças feitas no comando anterior;
+###    Para aplicar as mudanças feitas no comando anterior;
      sudo netplan apply
 Foto mostrando o sudo nano, após as alterações:
 
-### - Na VM2-PC1
+## - Na VM2-PC1
 
-####  Usar o usuário da VM:
+###  Usar o usuário da VM:
      administrador
-##### Senha:
+#### Senha:
      adminifal
 
-####   Instalação do net-tools:
+###   Instalação do net-tools:
      sudo apt install net-tools -y  
  
-####    Para poder editar as configurações de ips, máscara de hosts, dhcp, usa-se:
+###    Para poder editar as configurações de ips, máscara de hosts, dhcp, usa-se:
      sudo nano /etc/netplan/01-netcfg.yaml
 Foto mostrando o sudo nano, como está no momento(sem nenhuma alteração):
 
-####    Mudança no sudo nano:
+###    Mudança no sudo nano:
      addresses: [192.168.24.82/28]     => IP estático da VM1-PC1
 
-####    Para aplicar as mudanças feitas no comando anterior;
+###    Para aplicar as mudanças feitas no comando anterior;
      sudo netplan apply
 Foto mostrando o sudo nano, após as alterações:
 
