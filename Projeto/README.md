@@ -11,7 +11,7 @@ Espaço destinado para o projeto do segundo bimestre proposto pelo professor [Al
 #
 
 ### Roteiro geral do projeto
-#### Para o efetivo completo do objetivo, acesse as configurações de cada PC. Selecionando o PC desejado:
+#### Para o alcance do objetivo, a configuração das máquinas virtuais de cada PC foi fundamental. Acesse as configurações de cada PC. Selecionando o PC desejado:
 - [PC 1](https://github.com/Josival/TrabalhoRedes/blob/main/Projeto/PC's/PC1/README.md)
 - [PC 2]()
 - [PC 3]()
