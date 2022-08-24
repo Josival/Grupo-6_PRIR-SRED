@@ -53,3 +53,6 @@ Foto mostrando o sudo nano, após as alterações:
      ping 192.168.24.82
 ###### Da VM2-PC1 para a VM1-PC1:
      ping 192.168.24.81
+
+### Conclusão
+Antes de ir para o passo 4, [configure ás maquinas virtuais do PC2](). Se o PC2 já estiver configurado, continue no [Próximo Passo](https://github.com/Josival/TrabalhoRedes/blob/main/Projeto/PC's/PC1-PC2/Passo4.md):
