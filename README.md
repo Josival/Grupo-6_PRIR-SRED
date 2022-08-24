@@ -1,4 +1,4 @@
-## SERVIÇOS DE REDES - PROJETO DE PRIR E SRED - GRUPO 6 - 924
+## PROJETO DE PRIR E SRED - GRUPO 6 - 924
 
 Repositório destinado as disciplinas técnicas de redes do quarto ano do ensino médio técnico integrado em infórmatica do IFAL - Campus Arapiraca, ministradas pelo professor [Alelson Jatobá](https://github.com/alaelson)
 
