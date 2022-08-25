@@ -151,7 +151,7 @@
 #####    Da VM1-PC1 para a VM1-PC2:
     ping 192.168.24.83
     
-###    E a comunicação via ssh é feita da seguinte forma:
+###    A comunicação via SSH é feita da seguinte forma:
 ##### Da VM1-PC2 para a VM1-PC1:
     ssh srv-vm1-pc2@192.168.24.81
 ##### Da VM1-PC1 para a VM1-PC2:
@@ -159,7 +159,7 @@
     
 -----------------------------------------------------------------------------------------------------
 
-####  Fazendo uso do ping entre as máquinas, para verificar se está ocorrendo a comunicação e se tudo foi configurado corretamente:
+####  Fazendo uso do ping entre as máquinas para verificar se está ocorrendo a comunicação e se tudo foi configurado corretamente:
 
 #####    Da VM2-PC2 para a VM2-PC1:
     ping 192.168.24.82
