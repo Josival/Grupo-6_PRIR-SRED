@@ -16,7 +16,7 @@ Repositório destinado as disciplinas técnicas de redes do quarto ano do ensino
 # 
 
 ### Projeto segundo bimestre 
-- [Visualização geral do projeto](https://github.com/Josival/TrabalhoRedes/blob/main/Projeto/README.md)
+> [Visualização geral do projeto](https://github.com/Josival/TrabalhoRedes/blob/main/Projeto/README.md)
 - [Tabelas de definições de nomes e IPs para todas as VMs](https://github.com/Josival/TrabalhoRedes/blob/main/Tabelas.md)
 - [Topologia de Rede](https://github.com/Josival/TrabalhoRedes/blob/main/Topologia%20de%20Rede.md)
 - [Topologia Física]()
