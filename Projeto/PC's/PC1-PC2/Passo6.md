@@ -1,4 +1,4 @@
-# Passo 6 - Acesso à VM com o Host-Only
+# Passo 6 - Acesso a VM com o Host-Only
 
 ### Para ativar ou conectar uma interface no computador para a comunicação do host(pc) e as VMs, aperta em 'arquivo' e depois em 'Host Network Manager'.
 ##### como mostrado nas fotos:
