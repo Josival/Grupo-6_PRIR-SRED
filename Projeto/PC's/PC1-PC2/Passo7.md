@@ -1,4 +1,4 @@
-# Configuração estática de Nomes
+# Passo 7 - Configuração Estática de Nomes
 
 ### > Objetivo:
  - Configurar um serviço de nomes
