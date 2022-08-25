@@ -17,7 +17,7 @@ Obs.: Ao digitar a senha no terminal, ela não estará visível para o usuário,
 
 
 ### > Instalar Net-tools
-Essa instalação será para ter acesso a um pacote com várias ferramentas úteis para uso na sua rede local
+Essa instalação proporcionará o acesso a um pacote com várias ferramentas úteis para uso na sua rede local.
 ```bash
 sudo apt install net-tools
 ```
@@ -29,16 +29,16 @@ sudo apt install net-tools
 ```
 
 
-### > Para verificar se foi criada esta pasta
+### > Para verificar a criação da pasta:
 ```bash
  ls -la / #verifica a existencia do diretório /labredes
  cd /labredes #Coloca a pasta /labredes como diretório corrente
 ```
 
 
-### > Agora vamos criar subpastas
+### > Agora vamos criar subpastas:
 
-Para a criação de subpastas, o diretório que você deseja colocar essas subpastas deve está como diretório corrente/atual. Utilizando o comando ``cd/<nome do diretório completo que você deseja colocar um subdiretório>``. Se você deseja adicionar em um subdiretório, você deverá colocar no cd/ todos os diretórios antecedentes.
+Para a criação de subpastas, o diretório que você deseja inserir essas subpastas deve está como diretório corrente/atual. Utilizando o comando ``cd/<nome do diretório completo que você deseja inserir um subdiretório>``. Se você deseja adicionar uma outra subpasta em um subdiretório, você deverá colocar no cd/ todos os diretórios antecedentes.
 
 #### - Criar os diretórios para a criação de usuário
  ```bash
