@@ -11,7 +11,7 @@ Repositório destinado para o projeto do segundo bimestre proposto pelo professo
 |[Matheus Ataide](https://github.com/Matheus-Ataide)| mao3@aluno.ifal.edu.br   | 
 |[Josival Costa](https://github.com/Josival)        | jcs28@aluno.ifal.edu.br  | 
 |[Clara Leão](https://github.com/mariaclaraleao)    | mclan1@aluno.ifal.edu.br | 
-|[Outro Cara ](url)                                        | otoka2023@gmail.com      |
+|[Outro Cara ](url)                                 | otoka2023@gmail.com      |
 
 # 
 
