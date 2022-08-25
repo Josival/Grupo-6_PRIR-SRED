@@ -16,7 +16,7 @@ Para a criação das VMs, vamos importar a imagem .OVA, ele será necessário pa
 
 **3 - Pasta Padrão para Máquinas:** Você irá selecionar a pasta que deseja colocar a Máquina Virtual (Colocamos na pasta /labredes/VM/924/ClaraLeao)
 
-**4 - Política de Endereço de MAC:** É preciso que deixe como `Gerar novos endereços MAC para todas as placas de rede` para que para cada interface de rede seja criado um novo endereço MAC
+**4 - Política de Endereço MAC:** É preciso que deixe como `Gerar novos endereços MAC para todas as placas de rede` para que para cada interface de rede seja criado um novo endereço MAC
 
 ### > Conclusão
 Após o término desse Passo 2, direcione para o [Próximo Passo](https://github.com/Josival/TrabalhoRedes/blob/main/Projeto/PC's/PC1/Passo3.md)
