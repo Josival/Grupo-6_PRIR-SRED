@@ -13,9 +13,9 @@
 
 ## Na VM
 
-###  Fazer login no usuário:
+####  Fazer login no usuário:
     administrador
-###  senha: 
+####  senha: 
     adminifal
 
 #### Para verificar as interfaces de rede, usa-se:
@@ -27,7 +27,8 @@
 
 ##### O resultado pode ser visto na seguinte foto: 
 
-#### Com o 'ifconfig -a' podemos verificar essa nova interface, enp0s8.
+#### Podemos verificar essa nova interface criada, enp0s8, usando:
+    ifconfig -a 
 ##### Veja na foto abaixo:
 
 ### A conexão com a VM usando o terminal do pc, é feita pelo seguinte comando:
