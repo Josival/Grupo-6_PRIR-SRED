@@ -1,12 +1,12 @@
 # Passo 4 - Conexão entre as VMs via cabo ethernet
 
-####  Para fazer a comunicação entre as VMS de pcs diferentes, usando a conexão ponto a ponto, usa-se o cabo ethernet. 
+####  Para fazer a comunicação entre as VMs de PCs diferentes, usando a conexão ponto a ponto, utiliza-se o cabo Ethernet. 
 ##### Como pode ser visto na foto:
 
-####  E mudar nas configurações de rede das VMS, o modo rede interna, para placa em modo Bridge. 
+####  Para o êxito da conexão, é necessária uma mudança nas configurações de rede das VMs, o modo rede interna será substituído para placa em modo Bridge. 
 ##### Como pode ser visualizado na foto a seguir: 
 
-####  Novamente usa-se o ping para ocorrer a comunicação, que agora é entre máquinas virtuais de pcs distintos, nisso, é usado o seguinte comando:
+####  Novamente utiliza-se o ping para o estabelecimento da comunicação, que agora é entre máquinas virtuais de PCs distintos. Para isso, é utilizado o seguinte comando:
 
 ######    Da VM1-PC2  para a VM1-PC1
       ping 192.168.24.81
