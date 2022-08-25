@@ -47,7 +47,7 @@ Para a criação de subpastas, o diretório que você deseja inserir essas subpa
  cd ./images #Colocando o ./ você irá acessar o diretório anterior e o subdiretório que você quer acessar atualmente. Seria o mesmo que: cd /labredes/images
  sudo mkdir original 
  cd ./original
- ls -la #Para ver como está ficando com os subdiretórios
+ ls -la #Para verificar a organização dos subdiretórios.
  ```
 #### - Criar os diretórios para a criação da Máquina Virtual
 ```bash
@@ -62,7 +62,7 @@ Para a criação de subpastas, o diretório que você deseja inserir essas subpa
 
 
 ### > Adicionar o usuário ``aluno`` ao grupo ``redes``
-Para ter uma maior liberdade na manipulação das pastas/subpastas, iremos dar mais permissões a elas com essa etapa 
+Para ter uma maior liberdade na manipulação das pastas/subpastas, iremos dar mais permissões ao usuário com essa etapa. 
 
 * Modificando as permissões de arquivos e pastas
    * ``chown`` modifica o dono da pasta labredes para o usuario nobody e grupo nogroup
@@ -74,7 +74,7 @@ Para ter uma maior liberdade na manipulação das pastas/subpastas, iremos dar m
  sudo chgrp -R redes /labredes
  sudo chmod -R 771 /labredes #define permissões para que (U)ser/proprietário possa ler, escrever e executar. (G)roup pode ler, escrever e executar. (O)outros não podem ler, não podem escrever e podem executar
  ls -la
- getent group  #lista grupos: observe no fim da lista que os usuários também possuem grupos
+ getent group  #lista grupos: observe no fim da lista que os usuários também possuem grupos.                                                          
 ```
 
 
