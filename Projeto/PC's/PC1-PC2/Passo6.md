@@ -27,3 +27,6 @@
 
 ### Fazer a conexão com as VMs usando o terminal do pc, usando o seguinte comando:
     ssh srv-vm1-pc1@192.168.56.100   
+
+### > Conclusão
+Após o término desse Passo 6, direcione para o [Próximo Passo](https://github.com/Josival/Grupo-6_PRIR-SRED/blob/main/Projeto/PC's/PC1-PC2/Passo7.md)
