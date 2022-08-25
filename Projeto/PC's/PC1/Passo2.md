@@ -7,7 +7,11 @@ Para a criação das VMs, vamos importar a imagem .OVA, ele será necessário pa
 
 ![image](https://user-images.githubusercontent.com/86027160/183978615-8366e422-6321-4bcb-b040-48e634fb4740.png)
 
-![image](https://user-images.githubusercontent.com/86027160/183981533-6beca288-3e86-40e2-9c9d-94928950bb6d.png)
+#### - VM1-PC1
+<img src="Projeto/Figuras/PC1/Passo2/VM1-PC1.jpeg" title="Figura: VM1-PC1-Criação das VMs" width="1000" />
+
+#### - VM2-PC1
+<img src="Projeto/Figuras/Topologia_.png" title="Figura 1: Topologia de Rede Estrela" width="1000" />
 
 
 **1 - Local da Imagem da .OVA:** Você irá selecionar a imagem do linux que você baixou e colocou na pasta /labredes/imagem/original/
