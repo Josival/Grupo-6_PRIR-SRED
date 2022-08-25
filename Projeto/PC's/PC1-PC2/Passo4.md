@@ -13,9 +13,9 @@
 ######    Da VM1-PC1  para a VM1-PC2
       ping 192.168.24.83
       
-######    Da VM2-PC2  pra a VM2-PC1
+######    Da VM2-PC2  para a VM2-PC1
       ping 192.168.24.82
-######    Da VM2-PC1  pra a VM2-PC2
+######    Da VM2-PC1  para a VM2-PC2
       ping 192.168.24.84
 
 ### > Conclusão
