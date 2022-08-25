@@ -2,7 +2,7 @@
 
 ### > Na VM1-PC1
 
-#### - Usar o usuário da VM:
+#### - Entrar com o usuário da VM:
      administrador
 ##### Senha:
      adminifal
@@ -10,7 +10,7 @@
 #### - Instalação do net-tools:
      sudo apt install net-tools -y  
  
-#### - Para poder editar as configurações de ips, máscara de hosts, dhcp, usa-se:
+#### - Para habilitar a edição das configurações de IPs, máscara de hosts e DHCP, utiliza-se:
      sudo nano /etc/netplan/01-netcfg.yaml
 
 #### - Mudança no sudo nano:
@@ -20,9 +20,12 @@
      sudo netplan apply
 Foto mostrando o sudo nano, após as alterações:
 
+#### - Para verificar todas as interfaces configuradas utiliza-se:
+     ifconfig ou ifconfig -a
+
 ### > Na VM2-PC1
 
-#### - Usar o usuário da VM:
+#### - Entrar com o usuário da VM:
      administrador
 ##### Senha:
      adminifal
@@ -30,7 +33,7 @@ Foto mostrando o sudo nano, após as alterações:
 #### - Instalação do net-tools:
      sudo apt install net-tools -y  
  
-#### - Para poder editar as configurações de ips, máscara de hosts, dhcp, usa-se:
+#### - Para habilitar a edição das configurações de IPs, máscara de hosts e DHCP, utiliza-se:
      sudo nano /etc/netplan/01-netcfg.yaml
 
 #### - Mudança no sudo nano:
@@ -40,7 +43,7 @@ Foto mostrando o sudo nano, após as alterações:
      sudo netplan apply
 Foto mostrando o sudo nano, após as alterações:
 
-#### - Para ver todas as interfaces configuradas usa-se:
+#### - Para verificar todas as interfaces configuradas utiliza-se:
      ifconfig ou ifconfig -a
 
 * Nas configurações de rede das máquinas virtuais, alterar do modo NAT para a rede interna, como mostrado na foto:
