@@ -1,4 +1,4 @@
-### Topologia de Rede
+# Topologia de Rede
 
 * A topologia utilizada na rede é do tipo estrela. Nessa topologia os computadores são todos conectados a um HUB (switch) central que atua conectando todas as máquinas. 
 
