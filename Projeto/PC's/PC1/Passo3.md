@@ -22,8 +22,6 @@ Foto mostrando o sudo nano, como está no momento(sem nenhuma alteração):
      sudo netplan apply
 Foto mostrando o sudo nano, após as alterações:
 
-<img src="https://i.ibb.co/F6Z9M6K/Configura-o-inicial-do-ip-VM1-PC4.png" >
-
 ### > Na VM2-PC1
 
 #### - Usar o usuário da VM:
