@@ -2,7 +2,7 @@
 
 ### > Na VM1-PC1
 
-#### - Entrar com o usuário da VM:
+#### - Usar o usuário da VM:
      administrador
 ##### Senha:
      adminifal
@@ -10,7 +10,7 @@
 #### - Instalação do net-tools:
      sudo apt install net-tools -y  
  
-#### - Para habilitar a edição das configurações de IPs, máscara de hosts e DHCP, utiliza-se:
+#### - Para poder editar as configurações de ips, máscara de hosts, dhcp, usa-se:
      sudo nano /etc/netplan/01-netcfg.yaml
 
 #### - Mudança no sudo nano:
@@ -18,14 +18,16 @@
 
 #### - Para aplicar as mudanças feitas no comando anterior;
      sudo netplan apply
-Foto mostrando o sudo nano, após as alterações:
+     
+> Figura mostrando o sudo nano, após as alterações:
 
-#### - Para verificar todas as interfaces configuradas utiliza-se:
-     ifconfig ou ifconfig -a
+<img src="/Projeto/Figuras/PC1/Passo3/vm1-pc1-sudonano.png" title="VM1-PC1-Configurações Iniciais das Máquinas Virtuais" width="1000" />
+
+#
 
 ### > Na VM2-PC1
 
-#### - Entrar com o usuário da VM:
+#### - Usar o usuário da VM:
      administrador
 ##### Senha:
      adminifal
@@ -33,7 +35,7 @@ Foto mostrando o sudo nano, após as alterações:
 #### - Instalação do net-tools:
      sudo apt install net-tools -y  
  
-#### - Para habilitar a edição das configurações de IPs, máscara de hosts e DHCP, utiliza-se:
+#### - Para poder editar as configurações de ips, máscara de hosts, dhcp, usa-se:
      sudo nano /etc/netplan/01-netcfg.yaml
 
 #### - Mudança no sudo nano:
@@ -41,19 +43,29 @@ Foto mostrando o sudo nano, após as alterações:
 
 #### - Para aplicar as mudanças feitas no comando anterior;
      sudo netplan apply
-Foto mostrando o sudo nano, após as alterações:
+     
+> Figura mostrando o sudo nano, após as alterações:
 
-#### - Para verificar todas as interfaces configuradas utiliza-se:
+<img src="/Projeto/Figuras/PC1/Passo3/VM2-PC1-sudonano.png" title="VM2-PC1-Configurações Iniciais das Máquinas Virtuais" width="1000" />
+
+#### - Para ver todas as interfaces configuradas usa-se:
      ifconfig ou ifconfig -a
 
 * Nas configurações de rede das máquinas virtuais, alterar do modo NAT para a rede interna, como mostrado na foto:
+#### VM1-PC1:
+<img src="/Projeto/Figuras/PC1/Passo3/vm1-pc1-redeinterna.png" title="VM1-PC1-Configurações Iniciais das Máquinas Virtuais" width="1000" />
 
-#### - Para verificar se as máquinas estão se conectando usa-se o ping, como pode ser visto a |seguir:
+#### VM2-PC1:
+<img src="/Projeto/Figuras/PC1/Passo3/vm2-pc1-rede.png" title="VM1-PC1-Configurações Iniciais das Máquinas Virtuais" width="1000" />
+
+#### - Para verificar se as máquinas estão se conectando usa-se o ping, como pode ser visto a seguir:
 
 ##### Da VM1-PC1 para a VM2-PC1:
      ping 192.168.24.82
 ##### Da VM2-PC1 para a VM1-PC1:
      ping 192.168.24.81
 
+#
+
 ### > Conclusão
-Antes de ir para o passo 4, [configure as máquinas virtuais do PC2](). Se o PC2 já estiver configurado, continue no [Próximo Passo](https://github.com/Josival/TrabalhoRedes/blob/main/Projeto/PC's/PC1-PC2/Passo4.md):
+Antes de ir para o passo 4, [configure ás maquinas virtuais do PC2](). Se o PC2 já estiver configurado, continue no [Próximo Passo](https://github.com/Josival/TrabalhoRedes/blob/main/Projeto/PC's/PC1-PC2/Passo4.md)
