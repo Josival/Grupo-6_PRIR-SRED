@@ -96,4 +96,4 @@ scp aluno@192.168.101.10:~/Public/iso-images/ubuntu-server-mini.ova /labredes/im
 
 
 ### > Conclusão
-Após o término desse Passo 1, direcione para o [Próximo Passo](https://github.com/Josival/TrabalhoRedes/blob/main/Projeto/PC's/PC1/Passo%202.md)
+Após o término desse Passo 1, direcione para o [Próximo Passo](https://github.com/Josival/Grupo-6_PRIR-SRED/blob/main/Projeto/PC's/PC1/Passo2.md)
