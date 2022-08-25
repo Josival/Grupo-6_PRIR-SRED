@@ -35,4 +35,4 @@
 
 
 ### Conclusão
-Após o término desse Passo 5, direcione para o [Próximo Passo](https://github.com/Josival/Grupo-6_PRIR-SRED/blob/main/Projeto/PC's/PC1-PC2/Passo7.md)
+Após o término desse Passo 6, direcione para o [Próximo Passo](https://github.com/Josival/Grupo-6_PRIR-SRED/blob/main/Projeto/PC's/PC1-PC2/Passo7.md)
