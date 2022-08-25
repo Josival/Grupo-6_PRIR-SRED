@@ -17,7 +17,7 @@ Para a criação das VMs, vamos importar a imagem .OVA, ela será necessária pa
 
 **1 - Local da Imagem da .OVA:** Você irá selecionar a imagem do Linux que foi baixada e inserida na pasta /labredes/imagem/original/
 
-**2 - Nome da VM:** Você pode renomear para outro nome, se preferir (Colocamos de "ubuntu-server-mini" para "VM1-PC3-ClaraLeao")
+**2 - Nome da VM:** Você pode renomear para outro nome, se preferir (Alteramos de "ubuntu-server-mini" para "VM1-PC3-ClaraLeao")
 
 **3 - Pasta Padrão para Máquinas:** Você irá selecionar a pasta que deseja colocar a Máquina Virtual (Colocamos na pasta /labredes/VM/924/ClaraLeao)
 
