@@ -53,4 +53,4 @@ Foto mostrando o sudo nano, após as alterações:
      ping 192.168.24.81
 
 ### > Conclusão
-Antes de ir para o passo 4, [configure ás maquinas virtuais do PC2](). Se o PC2 já estiver configurado, continue no [Próximo Passo](https://github.com/Josival/TrabalhoRedes/blob/main/Projeto/PC's/PC1-PC2/Passo4.md):
+Antes de ir para o passo 4, [configure as máquinas virtuais do PC2](). Se o PC2 já estiver configurado, continue no [Próximo Passo](https://github.com/Josival/TrabalhoRedes/blob/main/Projeto/PC's/PC1-PC2/Passo4.md):
