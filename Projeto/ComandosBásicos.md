@@ -20,6 +20,8 @@
 
 * Modificando as permissões de arquivos e pastas:
 
-   * ``chown`` modifica o proprietário da pasta labredes para o usuario nobody e grupo nogroup.
-   * ``chgrp`` altera o proprietário de grupo do diretório ``/labredes`` para o grupo ``redes``.
-   * ``chmod`` altera as permissões do diretório para escrita pelos membros do grupo.
+   * ``chown`` modifica o proprietário da pasta labredes para o usuario nobody e grupo nogroup
+   * ``chgrp`` altera o proprietário de grupo do diretório ``/labredes`` para o grupo ``redes``
+   * ``chmod`` altera as permissões do diretório para escrita pelos membros do grupo
+   * 
+- ``exit``: Para sair do usuário logado
