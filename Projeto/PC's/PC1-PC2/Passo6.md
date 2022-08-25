@@ -1,14 +1,14 @@
 # Passo 6 - Acesso a VM com o Host-Only
 
-### Para ativar ou conectar uma interface no computador para a comunicação do host(pc) e as VMs, aperta em 'arquivo' e depois em 'Host Network Manager'.
+### Para ativar ou conectar uma interface no computador para a comunicação do host(PC) e as VMs, seleciona-se 'arquivo' e depois em 'Host Network Manager'.
 ##### como mostrado nas fotos:
 
 ####  Duas fotos!
 
-###  Clique em 'servidor dhcp' e 'habilite o servidor'.
+###  Clique em 'servidor DHCP' e 'habilite o servidor'.
 ##### como na foto:
 
-### Para adicionar um novo adaptador de rede(Host-Only), para dar acesso a uma VM pelo Terminal do PC.
+### Para adicionar um novo adaptador de rede (Host-Only), com o objetivo de possibilitar acesso a uma VM pelo Terminal do PC.
 ##### como mostrado na foto:
 
 ## Na VM
@@ -21,7 +21,7 @@
 #### Para verificar as interfaces de rede, usa-se:
     ifconfig -a
 
-#### Para ativar o dhcp nessa nova interface, usamos o seguinte comando:
+#### Para ativar o DHCP nessa nova interface, utilizamos o seguinte comando:
     sudo nano /etc/netplan/01-netcfg.yaml
     sudo netplan apply
 
@@ -31,7 +31,7 @@
     ifconfig -a 
 ##### Veja na foto abaixo:
 
-### A conexão com a VM usando o terminal do pc, é feita pelo seguinte comando:
+### A conexão é estabelecida com a VM através do terminal do PC pelo seguinte comando:
     ssh srv-vm1-pc1@192.168.56.100
 
 
