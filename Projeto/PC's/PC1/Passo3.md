@@ -12,8 +12,6 @@
  
 #### - Para poder editar as configurações de ips, máscara de hosts, dhcp, usa-se:
      sudo nano /etc/netplan/01-netcfg.yaml
-          
-Foto mostrando o sudo nano, como está no momento(sem nenhuma alteração):
 
 #### - Mudança no sudo nano:
      addresses: [192.168.24.81/28]     => IP estático da VM1-PC1
