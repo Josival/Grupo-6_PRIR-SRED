@@ -28,7 +28,9 @@
 
     netstat -an | grep LISTEN.  #verifique as conexões TCP na porta 22 se está como LISTENING
     
-> Como pode ser visto na foto:
+> Como pode ser visto na figura:
+> 
+<img src="/Projeto/Figuras/PC1/Passo5/status das portas.png" title="Status da Porta" width="900" />
 
 #### > Para a configuração do firewall, necessário para garantir que as portas etão funcionando corretamente, são utilizados os seguintes comandos:
 
@@ -40,6 +42,9 @@
     sudo ufw enable
     
 > Como pode ser visto na figura:
+> 
+<img src="/Projeto/Figuras/PC1/Passo5/configuração do firewall.png" title="Status da Porta" width="900" />
+
 
 #### > Alterar a rede para o modo bridge, descomentar os endereços IPs estáticos e desativar o DHCP.
 
@@ -75,7 +80,9 @@
 
     netstat -an | grep LISTEN.  #verifique as conexões TCP na porta 22 se está como LISTENING
     
-> Como pode ser visto na foto:
+> Como pode ser visto na figura:
+
+<img src="/Projeto/Figuras/PC1/Passo5/status das portas.png" title="Status da Porta" width="900" />
 
 #### > Para a configuração do firewall, necessário para garantir que as portas etão funcionando corretamente, são utilizados os seguintes comandos:
 
@@ -87,6 +94,7 @@
     sudo ufw enable
     
 > Como pode ser visto na figura:
+<img src="/Projeto/Figuras/PC1/Passo5/configuração do firewall.png" title="Status da Porta" width="900" />
 
 #### > Alterar a rede para o modo bridge, descomentar os endereços IPs estáticos e desativar o DHCP.
 
@@ -122,7 +130,9 @@
 
     netstat -an | grep LISTEN.  #verifique as conexões TCP na porta 22 se está como LISTENING
     
-> Como pode ser visto na foto:
+> Como pode ser visto na figura:
+
+<img src="/Projeto/Figuras/PC1/Passo5/status das portas.png" title="Status da Porta" width="900" />
 
 #### > Para a configuração do firewall, necessário para garantir que as portas etão funcionando corretamente, são utilizados os seguintes comandos:
 
@@ -134,6 +144,8 @@
     sudo ufw enable
     
 > Como pode ser visto na figura:
+
+<img src="/Projeto/Figuras/PC1/Passo5/configuração do firewall.png" title="Status da Porta" width="900" />
 
 #### > Alterar a rede para o modo bridge, descomentar os endereços IPs estáticos e desativar o DHCP.
 
@@ -169,7 +181,9 @@
 
     netstat -an | grep LISTEN.  #verifique as conexões TCP na porta 22 se está como LISTENING
     
-> Como pode ser visto na foto:
+> Como pode ser visto na figura:
+> 
+<img src="/Projeto/Figuras/PC1/Passo5/status das portas.png" title="Status da Porta" width="900" />
 
 #### > Para a configuração do firewall, necessário para garantir que as portas etão funcionando corretamente, são utilizados os seguintes comandos:
 
@@ -181,6 +195,8 @@
     sudo ufw enable
     
 > Como pode ser visto na figura:
+> 
+<img src="/Projeto/Figuras/PC1/Passo5/configuração do firewall.png" title="Status da Porta" width="900" />
 
 #### > Alterar a rede para o modo bridge, descomentar os endereços IPs estáticos e desativar o DHCP.
 
