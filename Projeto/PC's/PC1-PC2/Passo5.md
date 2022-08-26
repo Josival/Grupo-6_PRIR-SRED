@@ -10,19 +10,15 @@
      
 <img src="/Projeto/Figuras/PC1/Passo5/vm1-pc1-sudonat.png" title="VM1-PC1-NAT-Usando o SSH nas Máquinas Virtuais" width="900" />
 
-#### - Para atribuir o nome do usuário na VM1 é utilizado o comando:
+#### - Para atribuir o nome do usuário na VM1-PC1 é utilizado o comando:
 
     sudo hostnamectl set-hostname srv-vm1-pc1
 
 #### - Para atualizar a VM, foram usados os comandos a seguir:
 
     sudo apt update  
-    
-> Como pode ser visto abaixo na foto:
-
     sudo apt upgrade -y 
-    
-> Como pode ser visto abaixo na foto: 
+> Atenção, isso pode demorar um pouco!
 
 #### - Para a instalação do SSH, que proporciona a conexão via internet, foi utilizado o comando:
 
@@ -61,19 +57,15 @@
      
 <img src="/Projeto/Figuras/PC1/Passo5/vm2-pc1-sudonat.png" title="VM2-PC1-NAT-Usando o SSH nas Máquinas Virtuais" width="900" />
 
-#### - Para atribuir o nome do usuário na VM1 é utilizado o comando:
+#### - Para atribuir o nome do usuário na VM2-PC1 é utilizado o comando:
 
-    sudo hostnamectl set-hostname srv-vm1-pc1
+    sudo hostnamectl set-hostname srv-vm2-pc1
 
 #### - Para atualizar a VM, foram usados os comandos a seguir:
 
     sudo apt update  
-    
-> Como pode ser visto abaixo na foto:
-
     sudo apt upgrade -y 
-    
-> Como pode ser visto abaixo na foto: 
+> Atenção, isso pode demorar um pouco!
 
 #### - Para a instalação do SSH, que proporciona a conexão via internet, foi utilizado o comando:
 
@@ -112,19 +104,15 @@
      
 <img src="/Projeto/Figuras/PC1/Passo5/vm2-pc1-sudonat.png" title="VM1-PC1-NAT-Usando o SSH nas Máquinas Virtuais" width="900" />
 
-#### - Para atribuir o nome do usuário na VM1 é utilizado o comando:
+#### - Para atribuir o nome do usuário na VM1-PC2 é utilizado o comando:
 
-    sudo hostnamectl set-hostname srv-vm1-pc1
+    sudo hostnamectl set-hostname srv-vm1-pc2
 
 #### - Para atualizar a VM, foram usados os comandos a seguir:
 
     sudo apt update  
-    
-> Como pode ser visto abaixo na foto:
-
     sudo apt upgrade -y 
-    
-> Como pode ser visto abaixo na foto: 
+> Atenção, isso pode demorar um pouco!
 
 #### - Para a instalação do SSH, que proporciona a conexão via internet, foi utilizado o comando:
 
@@ -163,19 +151,15 @@
      
 <img src="/Projeto/Figuras/PC1/Passo5/vm2-pc1-sudonat.png" title="VM2-PC1-NAT-Usando o SSH nas Máquinas Virtuais" width="900" />
 
-#### - Para atribuir o nome do usuário na VM1 é utilizado o comando:
+#### - Para atribuir o nome do usuário na VM2-PC2 é utilizado o comando:
 
-    sudo hostnamectl set-hostname srv-vm1-pc1
+    sudo hostnamectl set-hostname srv-vm2-pc2
 
 #### - Para atualizar a VM, foram usados os comandos a seguir:
 
     sudo apt update  
-    
-> Como pode ser visto abaixo na foto:
-
     sudo apt upgrade -y 
-    
-> Como pode ser visto abaixo na foto: 
+> Atenção, isso pode demorar um pouco!
 
 #### - Para a instalação do SSH, que proporciona a conexão via internet, foi utilizado o comando:
 
@@ -210,15 +194,27 @@
     ping 192.168.24.82
 #####    Da VM2-PC1 para a VM2-PC2:
     ping 192.168.24.84
-    
-###    A comunicação via SSH é feita da seguinte forma:
-##### Da VM2-PC2 para a VM2-PC1:
-    ssh srv-vm2-pc1@192.168.24.82
-##### Da VM2-PC1 para a VM2-PC2:
-    ssh srv-vm2-pc2@192.168.24.84
-    
-######    Usar o comando 'exit' para sair das VMs conectadas anteriormente!
+#### Foto do ping nas VMs:
 
+
+##### Criação de novos usuários para as VMs, para a comunicação via ssh, pode ser feita com o comando:
+     sudo adduser matheus    - > Na VM1-PC1
+     sudo adduser matheusataide  -> Na VM2-PC1
+     
+     sudo adduser josival     - > Na VM1-PC2
+     sudo adduser josivalcosta    -> Na VM2-PC2
+     
+###    A comunicação via SSH é feita da seguinte forma:
+
+##### Da VM2-PC2 para a VM2-PC1:
+    ssh matheusataide@192.168.24.82
+##### Da VM2-PC1 para a VM2-PC2:
+    ssh josivalcosta@192.168.24.84
+    
+#### Foto da comunicação ssh nas VMs:
+
+
+######    Usar o comando 'exit' para sair das VMs conectadas anteriormente!
 -----------------------------------------------------------------------------------------------------
 
 ### > Conclusão
