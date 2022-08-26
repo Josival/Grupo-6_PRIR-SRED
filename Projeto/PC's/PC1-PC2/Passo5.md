@@ -98,11 +98,11 @@
 
 #### - Alterar a rede para o modo NAT, como na foto:
 
-<img src="/Projeto/Figuras/PC1/Passo5/vm2-pc1-redenat.png" title="VM1-PC1-NAT-Usando o SSH nas Máquinas Virtuais" width="1000" />
+<img src="/Projeto/Figuras/PC2/Passo5/vm1-pc2-redenat.png" title="VM1-PC1-NAT-Usando o SSH nas Máquinas Virtuais" width="1000" />
      
 #### - Comentar as linhas de endereçamento IP estático e ativar o DHCP, como na foto:
      
-<img src="/Projeto/Figuras/PC1/Passo5/vm2-pc1-sudonat.png" title="VM1-PC1-NAT-Usando o SSH nas Máquinas Virtuais" width="900" />
+<img src="/Projeto/Figuras/PC2/Passo5/vm1-pc2-sudonat.png" title="VM1-PC1-NAT-Usando o SSH nas Máquinas Virtuais" width="900" />
 
 #### - Para atribuir o nome do usuário na VM1-PC2 é utilizado o comando:
 
@@ -145,11 +145,11 @@
 
 #### - Alterar a rede para o modo NAT, como na foto:
 
-<img src="/Projeto/Figuras/PC1/Passo5/vm2-pc1-redenat.png" title="VM2-PC1-NAT-Usando o SSH nas Máquinas Virtuais" width="1000" />
+<img src="/Projeto/Figuras/PC2/Passo5/vm2-pc2-redenat.png" title="VM2-PC1-NAT-Usando o SSH nas Máquinas Virtuais" width="1000" />
      
 #### - Comentar as linhas de endereçamento IP estático e ativar o DHCP, como na foto:
      
-<img src="/Projeto/Figuras/PC1/Passo5/vm2-pc1-sudonat.png" title="VM2-PC1-NAT-Usando o SSH nas Máquinas Virtuais" width="900" />
+<img src="/Projeto/Figuras/PC2/Passo5/vm2-pc2-sudonat.png" title="VM2-PC1-NAT-Usando o SSH nas Máquinas Virtuais" width="900" />
 
 #### - Para atribuir o nome do usuário na VM2-PC2 é utilizado o comando:
 
