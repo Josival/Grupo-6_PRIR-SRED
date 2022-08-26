@@ -190,24 +190,33 @@
 
 ####  Fazendo uso do ping entre as máquinas para verificar se está ocorrendo a comunicação e se tudo foi configurado corretamente:
 
+
+#####    Da VM1-PC2 para a VM1-PC1
+    ping 192.168.24.81
 #####    Da VM2-PC2 para a VM2-PC1:
     ping 192.168.24.82
+#####    Da VM1-PC1 para a VM1-PC2
+    ping 192.168.24.83
 #####    Da VM2-PC1 para a VM2-PC2:
     ping 192.168.24.84
 #### Foto do ping nas VMs:
 
 
 ##### Criação de novos usuários para as VMs, para a comunicação via ssh, pode ser feita com o comando:
-     sudo adduser matheus    - > Na VM1-PC1
-     sudo adduser matheusataide  -> Na VM2-PC1
+    sudo adduser matheus    - > Na VM1-PC1
+    sudo adduser matheusataide  -> Na VM2-PC1
      
-     sudo adduser josival     - > Na VM1-PC2
-     sudo adduser josivalcosta    -> Na VM2-PC2
+    sudo adduser josival     - > Na VM1-PC2
+    sudo adduser josivalcosta    -> Na VM2-PC2
      
 ###    A comunicação via SSH é feita da seguinte forma:
 
+#####    Da VM1-PC2 para a VM1-PC1
+    ssh matheus@192.168.24.81
 ##### Da VM2-PC2 para a VM2-PC1:
     ssh matheusataide@192.168.24.82
+#####    Da VM1-PC1 para a VM1-PC2
+    ssh josival@192.168.24.83
 ##### Da VM2-PC1 para a VM2-PC2:
     ssh josivalcosta@192.168.24.84
     
