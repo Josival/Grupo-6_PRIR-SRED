@@ -50,6 +50,10 @@
 
 > Como pode ser notado abaixo na figura:
 
+<img src="/Projeto/Figuras/PC1/Passo5/vm1-pc1-bridge.png" title="vm1-pc1-Bridge" width="900" />
+
+<img src="/Projeto/Figuras/PC1/Passo5/vm1-pc1-internet.png" title="vm1-pc1-sudonano-nat" width="900" />
+
 -------------------------------------------------------------------------------------------------------------
 
 ### Na VM2-PC1
@@ -99,6 +103,10 @@
 #### > Alterar a rede para o modo bridge, descomentar os endereços IPs estáticos e desativar o DHCP.
 
 > Como pode ser notado abaixo na figura:
+
+<img src="/Projeto/Figuras/PC1/Passo5/vm2-pc1-bridge.png" title="vm2-pc1-Bridge" width="900" />
+
+<img src="/Projeto/Figuras/PC1/Passo5/vm2-pc1-internet.png" title="vm2-pc1-sudonano-nat" width="900" />
 
 --------------------------------------------------------------------------
 
@@ -151,6 +159,10 @@
 
 > Como pode ser notado abaixo na figura:
 
+<img src="/Projeto/Figuras/PC2/Passo5/vm1-pc2-bridge.png" title="vm1-pc2-Bridge" width="900" />
+
+<img src="/Projeto/Figuras/PC2/Passo5/vm1-pc2-internet.png" title="vm1-pc2-sudonano-nat" width="900" />
+
 -----------------------------------------------------------------------------
 
 ### Na VM2-PC2
@@ -182,7 +194,7 @@
     netstat -an | grep LISTEN.  #verifique as conexões TCP na porta 22 se está como LISTENING
     
 > Como pode ser visto na figura:
-> 
+
 <img src="/Projeto/Figuras/PC1/Passo5/status das portas.png" title="Status da Porta" width="900" />
 
 #### > Para a configuração do firewall, necessário para garantir que as portas etão funcionando corretamente, são utilizados os seguintes comandos:
@@ -201,10 +213,16 @@
 #### > Alterar a rede para o modo bridge, descomentar os endereços IPs estáticos e desativar o DHCP.
 
 > Como pode ser notado abaixo na figura:
+
+<img src="/Projeto/Figuras/PC2/Passo5/vm2-pc2-bridge.png" title="vm2-pc2-Bridge" width="900" />
+
+<img src="/Projeto/Figuras/PC2/Passo5/vm2-pc2-internet" title="vm2-pc2-sudonano-nat" width="900" />
     
 -----------------------------------------------------------------------------------------------------
 
 ####  > Fazendo uso do ping entre as máquinas para verificar se está ocorrendo a comunicação e se tudo foi configurado corretamente:
+
+> Para cancelar o ping é só clicar nas teclas: ``ctrl + C``
 
 ##### - Da VM1-PC1 para a VM1-PC2
 
@@ -230,8 +248,6 @@
     
 <img src="/Projeto/Figuras/PC2/Passo5/vm2-pc2-ping.png" title="VM2-PC1-ping-Usando o SSH nas Máquinas Virtuais" width="800" />
 
-> Para cancelar o ping é só clicar nas teclas: ``ctrl + C``
-
 #
 
 ##### > Criação de novos usuários para as VMs, para a comunicação via ssh, pode ser feita com o comando:
@@ -241,9 +257,7 @@
     sudo adduser josival   - > Na VM1-PC2
     sudo adduser costa     -> Na VM2-PC2
      
-     
 #
-     
      
 ### > A comunicação via SSH é feita da seguinte forma:
 
@@ -269,7 +283,6 @@
     ssh ataide@192.168.24.82
     
 <img src="/Projeto/Figuras/PC2/Passo5/vm2-pc2-ssh.png" title="VM2-PC2-SSH-Usando o SSH nas Máquinas Virtuais" width="800" />
-
 
 
 > Usar o comando 'exit' para sair do usuário logado
