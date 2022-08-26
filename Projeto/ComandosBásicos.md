@@ -25,3 +25,5 @@
    * ``chmod`` altera as permissões do diretório para escrita pelos membros do grupo
    * 
 - ``exit``: Para sair do usuário logado
+
+- ``hostname``: Aparece o hostname atual da Máquina
