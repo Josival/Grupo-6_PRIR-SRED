@@ -5,7 +5,7 @@
 <img src="/Projeto/Figuras/PC1/Passo4/cabo-pc.jpeg" title="Topologia de Física" width="400" />
 
 ####  Para o êxito da conexão, é necessária uma mudança nas configurações de rede das VMs, o modo rede interna será substituído para placa em modo Bridge. 
-> Como pode ser visualizado na foto a seguir:
+> Como pode ser visualizado nas fotos a seguir:
 - **VM1-PC1:**
 <img src="/Projeto/Figuras/PC1/Passo4/vm1-pc1-bridge.png" title="VM1-PC1-Conexão entre as VMs Via Cabo Ethernet" width="1000" />
 
