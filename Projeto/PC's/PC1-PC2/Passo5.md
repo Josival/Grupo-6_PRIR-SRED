@@ -190,24 +190,43 @@
 
 ####  > Fazendo uso do ping entre as máquinas para verificar se está ocorrendo a comunicação e se tudo foi configurado corretamente:
 
+##### - Da VM1-PC1 para a VM1-PC2
+
+    ping 192.168.24.83
+    
+<img src="/Projeto/Figuras/PC1/Passo5/vm1-pc1-ping.png" title="VM2-PC1-ping-Usando o SSH nas Máquinas Virtuais" width="800" />
+
+##### - Da VM2-PC1 para a VM2-PC2:
+
+    ping 192.168.24.84
+    
+<img src="/Projeto/Figuras/PC1/Passo5/vm2-pc1-ping.png" title="VM2-PC1-ping-Usando o SSH nas Máquinas Virtuais" width="800" />
 
 ##### - Da VM1-PC2 para a VM1-PC1
-    ping 192.168.24.81
-##### - Da VM2-PC2 para a VM2-PC1:
-    ping 192.168.24.82
-##### - Da VM1-PC1 para a VM1-PC2
-    ping 192.168.24.83
-##### - Da VM2-PC1 para a VM2-PC2:
-    ping 192.168.24.84
-#### Figura do ping nas VMs:
 
+    ping 192.168.24.81
+    
+<img src="/Projeto/Figuras/PC2/Passo5/vm1-pc2-ping.png" title="VM2-PC1-ping-Usando o SSH nas Máquinas Virtuais" width="800" />
+
+##### - Da VM2-PC2 para a VM2-PC1:
+
+    ping 192.168.24.82
+    
+<img src="/Projeto/Figuras/PC2/Passo5/vm2-pc2-ping.png" title="VM2-PC1-ping-Usando o SSH nas Máquinas Virtuais" width="800" />
+
+> Para cancelar o ping é só clicar nas teclas: ``ctrl + C``
+
+#
 
 ##### > Criação de novos usuários para as VMs, para a comunicação via ssh, pode ser feita com o comando:
-    sudo adduser matheus    - > Na VM1-PC1
-    sudo adduser taide  -> Na VM2-PC1
+    sudo adduser matheus   - > Na VM1-PC1
+    sudo adduser taide     -> Na VM2-PC1
      
-    sudo adduser josival     - > Na VM1-PC2
-    sudo adduser costa    -> Na VM2-PC2
+    sudo adduser josival   - > Na VM1-PC2
+    sudo adduser costa     -> Na VM2-PC2
+     
+     
+#
      
      
 ### > A comunicação via SSH é feita da seguinte forma:
@@ -215,19 +234,25 @@
 ##### - Da VM1-PC1 para a VM1-PC2
     ssh josival@192.168.24.83
     
-<img src="/Projeto/Figuras/PC1/Passo5/vm1-pc1-ssh.png" title="VM2-PC1-NAT-Usando o SSH nas Máquinas Virtuais" width="800" />
+<img src="/Projeto/Figuras/PC1/Passo5/vm1-pc1-ssh.png" title="VM1-PC1-SSH-Usando o SSH nas Máquinas Virtuais" width="800" />
     
 ##### - Da VM2-PC1 para a VM2-PC2:
+
     ssh costa@192.168.24.84
-<img src="/Projeto/Figuras/PC1/Passo5/vm2-pc1-ssh.png" title="VM2-PC1-NAT-Usando o SSH nas Máquinas Virtuais" width="800" />
+    
+<img src="/Projeto/Figuras/PC1/Passo5/vm2-pc1-ssh.png" title="VM2-PC1-SSH-Usando o SSH nas Máquinas Virtuais" width="800" />
 
 ##### - Da VM1-PC2 para a VM1-PC1
+
     ssh matheus@192.168.24.81
-<img src="/Projeto/Figuras/PC2/Passo5/vm1-pc2-ssh.png" title="VM2-PC1-NAT-Usando o SSH nas Máquinas Virtuais" width="800" />
+    
+<img src="/Projeto/Figuras/PC2/Passo5/vm1-pc2-ssh.png" title="VM1-PC2-SSH-Usando o SSH nas Máquinas Virtuais" width="800" />
 
 ##### - Da VM2-PC2 para a VM2-PC1:
+
     ssh ataide@192.168.24.82
-<img src="/Projeto/Figuras/PC2/Passo5/vm2-pc2-ssh.png" title="VM2-PC1-NAT-Usando o SSH nas Máquinas Virtuais" width="800" />
+    
+<img src="/Projeto/Figuras/PC2/Passo5/vm2-pc2-ssh.png" title="VM2-PC2-SSH-Usando o SSH nas Máquinas Virtuais" width="800" />
 
 
 
