@@ -2,11 +2,11 @@
 
 ### Na VM1-PC1 
 
-#### - Alterar a rede para o modo NAT, como na foto:
+#### - Alterar a rede para o modo NAT, como na figura:
 
 <img src="/Projeto/Figuras/PC1/Passo5/vm1-pc1-redenat.png" title="VM1-PC1-NAT-Usando o SSH nas Máquinas Virtuais" width="1000" />
      
-#### - Comentar as linhas de endereçamento IP estático e ativar o DHCP, como na foto:
+#### - Comentar as linhas de endereçamento IP estático e ativar o DHCP, como na figura:
      
 <img src="/Projeto/Figuras/PC1/Passo5/vm1-pc1-sudonat.png" title="VM1-PC1-NAT-Usando o SSH nas Máquinas Virtuais" width="900" />
 
@@ -49,11 +49,11 @@
 
 ### Na VM2-PC1
 
-#### - Alterar a rede para o modo NAT, como na foto:
+#### - Alterar a rede para o modo NAT, como na figura:
 
 <img src="/Projeto/Figuras/PC1/Passo5/vm2-pc1-redenat.png" title="VM2-PC1-NAT-Usando o SSH nas Máquinas Virtuais" width="1000" />
      
-#### - Comentar as linhas de endereçamento IP estático e ativar o DHCP, como na foto:
+#### - Comentar as linhas de endereçamento IP estático e ativar o DHCP, como na figura:
      
 <img src="/Projeto/Figuras/PC1/Passo5/vm2-pc1-sudonat.png" title="VM2-PC1-NAT-Usando o SSH nas Máquinas Virtuais" width="900" />
 
@@ -96,11 +96,11 @@
 
 ### Na VM1-PC2
 
-#### - Alterar a rede para o modo NAT, como na foto:
+#### - Alterar a rede para o modo NAT, como na figura:
 
 <img src="/Projeto/Figuras/PC2/Passo5/vm1-pc2-redenat.png" title="VM1-PC1-NAT-Usando o SSH nas Máquinas Virtuais" width="1000" />
      
-#### - Comentar as linhas de endereçamento IP estático e ativar o DHCP, como na foto:
+#### - Comentar as linhas de endereçamento IP estático e ativar o DHCP, como na figura:
      
 <img src="/Projeto/Figuras/PC2/Passo5/vm1-pc2-sudonat.png" title="VM1-PC1-NAT-Usando o SSH nas Máquinas Virtuais" width="900" />
 
@@ -143,11 +143,11 @@
 
 ### Na VM2-PC2
 
-#### - Alterar a rede para o modo NAT, como na foto:
+#### - Alterar a rede para o modo NAT, como na figura:
 
 <img src="/Projeto/Figuras/PC2/Passo5/vm2-pc2-redenat.png" title="VM2-PC1-NAT-Usando o SSH nas Máquinas Virtuais" width="1000" />
      
-#### - Comentar as linhas de endereçamento IP estático e ativar o DHCP, como na foto:
+#### - Comentar as linhas de endereçamento IP estático e ativar o DHCP, como na figura:
      
 <img src="/Projeto/Figuras/PC2/Passo5/vm2-pc2-sudonat.png" title="VM2-PC1-NAT-Usando o SSH nas Máquinas Virtuais" width="900" />
 
