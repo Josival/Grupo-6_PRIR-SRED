@@ -14,6 +14,7 @@
 
 > Como mostrado na figura
 
+<img src="" title="Acesso à VM pelo Host-Only" width="900" />
 
 ## Na VM
 
@@ -34,6 +35,8 @@
 
 
 > O resultado pode ser visto na seguinte foto: 
+
+<img src="" title="Acesso à VM pelo Host-Only" width="900" />
 
 #### > Podemos verificar essa nova interface criada, enp0s8, usando:
 
