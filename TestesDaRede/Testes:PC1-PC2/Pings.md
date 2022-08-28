@@ -1,6 +1,6 @@
 # Testes da Rede - Pings entre o PC 1 e PC 2
 
-> Para cancelar o ping é só clicar nas teclas: ``ctrl + C``
+> Para cancelar o ping é só pressionar as teclas: ``Ctrl + C``
 ##### - Da VM1-PC1 para a VM1-PC2
 
     ping 192.168.24.83
