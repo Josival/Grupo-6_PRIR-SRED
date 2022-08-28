@@ -1,4 +1,4 @@
-## Configuração dos endereços IPs - GRUPO 6  - 924
+## Configuração dos endereços IPs
 
 ```
 Tabela 1: Definições de endereços IPs da Rede
