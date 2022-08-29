@@ -58,10 +58,10 @@
 <img src="/Projeto/Figuras/PC2/Passo6/" title="Acesso à VM pelo Host-Only" width="900" />
 
 ##### - VM1-PC2
-<img src="/Projeto/Figuras/PC2/Passo6/" title="Acesso à VM pelo Host-Only" width="900" />
+<img src="/Projeto/Figuras/PC2/Passo6/ifconfig-vm1-pc2-terminal-pc-vm.png" title="Acesso à VM pelo Host-Only" width="900" />
 
 ##### - VM2-PC2
-<img src="/Projeto/Figuras/PC2/Passo6/" title="Acesso à VM pelo Host-Only" width="900" />
+<img src="/Projeto/Figuras/PC2/Passo6/ifconfig-vm2-pc2-terminal-pc-vm.png" title="Acesso à VM pelo Host-Only" width="900" />
 
 ### > A conexão é estabelecida com a VM através do terminal do PC pelo seguinte comando:
 
