@@ -1,5 +1,7 @@
 # Passo 3 - Configurações iniciais das Máquinas Virtuais
 
+- Após o passo anterior inicie as Máquinas Virtuais para fazer as seguintes configurações:
+
 ### > Na VM1-PC1
 
 #### - Usar o usuário da VM:
@@ -10,18 +12,17 @@
 #### - Instalação do net-tools:
      sudo apt install net-tools -y  
  
-#### - Para poder editar as configurações de ips, máscara de hosts, dhcp, usa-se:
+#### - Para poder editar as configurações de ips e dhcp usa-se:
      sudo nano /etc/netplan/01-netcfg.yaml
 
 #### - Mudança no sudo nano:
-     addresses: [192.168.24.81/28]     => IP estático da VM1-PC1
 
-#### - Para aplicar as mudanças feitas no comando anterior;
-     sudo netplan apply
-     
 > Figura mostrando o sudo nano, após as alterações:
 
 <img src="/Projeto/Figuras/PC1/Passo3/vm1-pc1-sudonano.png" title="VM1-PC1-Configurações Iniciais das Máquinas Virtuais" width="1000" />
+
+#### - Para aplicar as mudanças feitas no comando anterior;
+     sudo netplan apply
 
 #
 
@@ -39,17 +40,20 @@
      sudo nano /etc/netplan/01-netcfg.yaml
 
 #### - Mudança no sudo nano:
-     addresses: [192.168.24.82/28]     => IP estático da VM2-PC1
 
-#### - Para aplicar as mudanças feitas no comando anterior:
-     sudo netplan apply
-     
 > Figura mostrando o sudo nano, após as alterações:
 
-<img src="/Projeto/Figuras/PC1/Passo3/vm2-pc1-sudonano.png" title="VM2-PC1-Configurações Iniciais das Máquinas Virtuais" width="1000" />
+<img src="/Projeto/Figuras/PC1/Passo3/vm1-pc1-sudonano.png" title="VM1-PC1-Configurações Iniciais das Máquinas Virtuais" width="1000" />
+
+#### - Para aplicar as mudanças feitas no comando anterior;
+     sudo netplan apply
+
+#
 
 #### - Para ver todas as interfaces configuradas usa-se:
      ifconfig ou ifconfig -a
+
+#
 
 #### - Nas configurações de rede das máquinas virtuais, alterar do modo NAT para a rede interna, como mostrado nas figuras:
 
