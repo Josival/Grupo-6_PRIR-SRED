@@ -1,9 +1,11 @@
 # Passo 2 - Criação das VMs da rede
 
-Para a criação das VMs, vamos importar a imagem .OVA, ela será necessária para a construção da rede.
+Para a criação das VMs, vamos importar a imagem .OVA, ela será necessária para a construção da rede. Isto será feito no programa Virtual Box.
 
 
 ### > Segue os passos de importação:
+ 
+> Em ambas Máquinas Virtuais faça o seguinte passo:
 
 ![image](https://user-images.githubusercontent.com/86027160/183978615-8366e422-6321-4bcb-b040-48e634fb4740.png)
 
