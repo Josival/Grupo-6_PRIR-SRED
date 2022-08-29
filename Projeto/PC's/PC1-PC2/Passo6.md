@@ -14,7 +14,7 @@
 
 > Como mostrado na figura
 
-<img src="" title="Acesso à VM pelo Host-Only" width="900" />
+<img src="/Projeto/Figuras/PC1/Passo6/servidordhcp.png" title="Acesso à VM pelo Host-Only" width="900" />
 
 ## Na VM
 
