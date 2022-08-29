@@ -51,7 +51,8 @@
 #### - Para ver todas as interfaces configuradas usa-se:
      ifconfig ou ifconfig -a
 
-* Nas configurações de rede das máquinas virtuais, alterar do modo NAT para a rede interna, como mostrado na foto:
+#### - Nas configurações de rede das máquinas virtuais, alterar do modo NAT para a rede interna, como mostrado nas figuras:
+
 #### VM1-PC1:
 <img src="/Projeto/Figuras/PC1/Passo3/vm1-pc1-redeinterna.png" title="VM1-PC1-Configurações Iniciais das Máquinas Virtuais" width="1000" />
 
