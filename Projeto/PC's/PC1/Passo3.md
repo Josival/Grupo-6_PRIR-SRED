@@ -46,7 +46,7 @@
      
 > Figura mostrando o sudo nano, após as alterações:
 
-<img src="/Projeto/Figuras/PC1/Passo3/VM2-PC1-sudonano.png" title="VM2-PC1-Configurações Iniciais das Máquinas Virtuais" width="1000" />
+<img src="/Projeto/Figuras/PC1/Passo3/vm2-pc1-sudonano.png" title="VM2-PC1-Configurações Iniciais das Máquinas Virtuais" width="1000" />
 
 #### - Para ver todas as interfaces configuradas usa-se:
      ifconfig ou ifconfig -a
@@ -56,7 +56,7 @@
 <img src="/Projeto/Figuras/PC1/Passo3/vm1-pc1-redeinterna.png" title="VM1-PC1-Configurações Iniciais das Máquinas Virtuais" width="1000" />
 
 #### VM2-PC1:
-<img src="/Projeto/Figuras/PC1/Passo3/vm2-pc1-rede.png" title="VM1-PC1-Configurações Iniciais das Máquinas Virtuais" width="1000" />
+<img src="/Projeto/Figuras/PC1/Passo3/vm2-pc1-redeinterna.png" title="VM1-PC1-Configurações Iniciais das Máquinas Virtuais" width="1000" />
 
 #### - Para verificar se as máquinas estão se conectando usa-se o ping, como pode ser visto a seguir:
 
