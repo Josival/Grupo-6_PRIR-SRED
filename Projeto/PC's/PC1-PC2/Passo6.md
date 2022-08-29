@@ -65,7 +65,10 @@
 
 ### > A conexão é estabelecida com a VM através do terminal do PC pelo seguinte comando:
 
-    ssh srv-vm1-pc1@192.168.56.100
+    ssh <usuario ou hostname>@192.168.56.101
+    
+    Exemplos: ssh srv-vm1-pc1@192.168.56.101
+              ssh josival@192.168.56.101
 
 
 ### > Conclusão
