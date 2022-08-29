@@ -21,18 +21,18 @@ Tabela 1: Definições de endereços IPs da Rede
 ## Configuração do serviço de nomes estáticos
 ```
 Tabela 2: Definições de endereços IPs da Rede e Nomes de Hosts
------------------------------------------------------------------------------------------------------------------------------------------------------------
-|                   Responsável                       |  DESCRIÇÃO  |       IP        |   hostname        |               FQDN               |   aliase   |
------------------------------------------------------------------------------------------------------------------------------------------------------------
-| [Matheus Ataide](https://github.com/Matheus-Ataide) |   VM1-PC1   | 192.168.24.81   |   srv-vm1-pc1     | matheus1.grupo6-924.ifalara.net  |   matheus  |
-                                                      |   VM2-PC1   | 192.168.24.82   |   srv-vm2-pc1     | matheus2.grupo6-924.ifalara.net  |   ataide   |
-| [Josival Costa](https://github.com/Josival)         |   VM1-PC2   | 192.168.24.83   |   srv-vm1-pc2     | josival1.grupo6-924.ifalara.net  |   josival  |
-                                                      |   VM2-PC2   | 192.168.24.84   |   srv-vm2-pc2     | josival2.grupo6-924.ifalara.net  |   costa    |
-| [Clara Leão](https://github.com/mariaclaraleao)     |   VM1-PC3   | 192.168.24.85   |   srv-vm1-pc3     | clara1.grupo6-924.ifalara.net    |   clara    |
-                                                      |   VM2-PC3   | 192.168.24.86   |   srv-vm2-pc3     | clara2.grupo6-924.ifalara.net    |   leao     |
-| Outro cara                                          |   VM1-PC4   | 192.168.24.87   |   srv-vm1-pc4     | cara1.grupo6-924.ifalara.net     |   cara1    |
-                                                      |   VM2-PC4   | 192.168.24.88   |   srv-vm2-pc4     | cara2.grupo6-924.ifalara.net     |   cara2    |
------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------
+|  DESCRIÇÃO  |       IP        |   hostname        |               FQDN               |   aliase   |
+-----------------------------------------------------------------------------------------------------
+|   VM1-PC1   | 192.168.24.81   |   srv-vm1-pc1     | matheus1.grupo6-924.ifalara.net  |   matheus  |
+|   VM2-PC1   | 192.168.24.82   |   srv-vm2-pc1     | matheus2.grupo6-924.ifalara.net  |   ataide   |
+|   VM1-PC2   | 192.168.24.83   |   srv-vm1-pc2     | josival1.grupo6-924.ifalara.net  |   josival  |
+|   VM2-PC2   | 192.168.24.84   |   srv-vm2-pc2     | josival2.grupo6-924.ifalara.net  |   costa    |
+|   VM1-PC3   | 192.168.24.85   |   srv-vm1-pc3     | clara1.grupo6-924.ifalara.net    |   clara    |
+|   VM2-PC3   | 192.168.24.86   |   srv-vm2-pc3     | clara2.grupo6-924.ifalara.net    |   leao     |
+|   VM1-PC4   | 192.168.24.87   |   srv-vm1-pc4     | cara1.grupo6-924.ifalara.net     |   cara1    |
+|   VM2-PC4   | 192.168.24.88   |   srv-vm2-pc4     | cara2.grupo6-924.ifalara.net     |   cara2    |
+-----------------------------------------------------------------------------------------------------
 ```
 * IP: nosso número de identificação única para cada máquina utilizada.
 * hostname: nome da nossa máquina onde está vinculada ao IP.
