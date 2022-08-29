@@ -9,10 +9,10 @@ Para a criação das VMs, vamos importar a imagem .OVA, ela será necessária pa
 
 #### - VM1-PC1
 
-<img src="/Projeto/Figuras/PC1/Passo2/VM1-PC1.jpeg" title="VM1-PC1-Criação das VMs da Rede" width="1000" />
+<img src="/Projeto/Figuras/PC1/Passo2/vm1-pc1-importarappliance.jpeg" title="VM1-PC1-Criação das VMs da Rede" width="1000" />
 
 #### - VM2-PC1
-<img src="/Projeto/Figuras/PC1/Passo2/VM2-PC1.jpeg" title="VM2-PC1-Criação das VMs da Rede" width="1000" />
+<img src="/Projeto/Figuras/PC1/Passo2/vm2-pc1-importarappliance.jpeg" title="VM2-PC1-Criação das VMs da Rede" width="1000" />
 
 
 **1 - Local da Imagem da .OVA:** Você irá selecionar a imagem do Linux que foi baixada e inserida na pasta /labredes/imagem/original/
