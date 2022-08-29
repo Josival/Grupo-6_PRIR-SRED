@@ -12,7 +12,7 @@
 
 ### > Para adicionar um novo adaptador de rede (Host-Only), com o objetivo de possibilitar acesso a uma VM pelo Terminal do PC
 
-> Como mostrado na figura
+> Como mostrado na figura:
 
 <img src="/Projeto/Figuras/PC1/Passo6/servidordhcp.png" title="Acesso à VM pelo Host-Only" width="900" />
 
@@ -34,7 +34,7 @@
     sudo netplan apply
 
 
-> O resultado pode ser visto na seguinte foto: 
+> O resultado pode ser visto na seguinte figura: 
 
 <img src="" title="Acesso à VM pelo Host-Only" width="900" />
 
