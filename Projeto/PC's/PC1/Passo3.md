@@ -39,9 +39,9 @@
      sudo nano /etc/netplan/01-netcfg.yaml
 
 #### - Mudança no sudo nano:
-     addresses: [192.168.24.82/28]     => IP estático da VM1-PC1
+     addresses: [192.168.24.82/28]     => IP estático da VM2-PC1
 
-#### - Para aplicar as mudanças feitas no comando anterior;
+#### - Para aplicar as mudanças feitas no comando anterior:
      sudo netplan apply
      
 > Figura mostrando o sudo nano, após as alterações:

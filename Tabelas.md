@@ -60,7 +60,7 @@ Tabela 3: Configuração dos hardware das VMs
 ```
 Tabela 4: Definições dos nomes de usuários e senha 
 ------------------------------------------------
-|  DESCRICAO  |     USUÁRIOS    |     SENHA    |
+|  DESCRIÇÃO  |     USUÁRIOS    |     SENHA    |
 ------------------------------------------------
 | VM1-PC1     |      matheus    |   adminifal  |
 | VM2-PC1     |      ataide     |   adminifal  |
@@ -74,14 +74,12 @@ Tabela 4: Definições dos nomes de usuários e senha
 ```
 
 ## Alocação dos PC' utilizados
-```
-Tabela 5: PC's físicos reservados para cada máquina
--------------------------------
-|  DESCRICAO  |   PC FÍSICO   |
--------------------------------
-|     PC1     | LAB 1 - PC 09 |
-|     PC2     | LAB 1 - PC 10 | 
-|     PC3     | LAB 1 - PC 11 |
-|     PC4     | LAB 1 - PC 12 |
--------------------------------
-```
+
+#### Tabela 5: PC's físicos reservados para cada máquina
+
+|                   RESPONSÁVEL                       |  DESCRIÇÃO  |   PC FÍSICO   |
+|-----------------------------------------------------|-------------|---------------|
+| [Matheus Ataide](https://github.com/Matheus-Ataide) |     PC1     | LAB 1 - PC 09 |
+| [Josival Costa](https://github.com/Josival)         |     PC2     | LAB 1 - PC 10 | 
+| [Clara Leão](https://github.com/mariaclaraleao)     |     PC3     | LAB 1 - PC 11 |
+| Outro cara                                          |     PC4     | LAB 1 - PC 12 |
