@@ -42,17 +42,17 @@
     sudo ufw enable
     
 > Como pode ser visto na figura:
-> 
+
 <img src="/Projeto/Figuras/PC1/Passo5/configuração do firewall.png" title="Status da Porta" width="900" />
 
 
 #### > Alterar a rede para o modo bridge, descomentar os endereços IPs estáticos e desativar o DHCP.
 
-> Como pode ser notado abaixo na figura:
+> Como pode ser notado abaixo nas figuras:
 
 <img src="/Projeto/Figuras/PC1/Passo5/vm1-pc1-bridge.png" title="vm1-pc1-Bridge" width="900" />
 
-<img src="/Projeto/Figuras/PC1/Passo5/vm1-pc1-internet.png" title="vm1-pc1-sudonano-nat" width="900" />
+<img src="/Projeto/Figuras/PC1/Passo5/vm1-pc1-sudobridge.png" title="vm1-pc1-sudonano-bridge" width="900" />
 
 -------------------------------------------------------------------------------------------------------------
 
@@ -102,11 +102,11 @@
 
 #### > Alterar a rede para o modo bridge, descomentar os endereços IPs estáticos e desativar o DHCP.
 
-> Como pode ser notado abaixo na figura:
+> Como pode ser notado abaixo nas figuras:
 
 <img src="/Projeto/Figuras/PC1/Passo5/vm2-pc1-bridge.png" title="vm2-pc1-Bridge" width="900" />
 
-<img src="/Projeto/Figuras/PC1/Passo5/vm2-pc1-internet.png" title="vm2-pc1-sudonano-nat" width="900" />
+<img src="/Projeto/Figuras/PC1/Passo5/vm2-pc1-sudobridge.png" title="vm1-pc1-sudonano-bridge" width="900" />
 
 --------------------------------------------------------------------------
 
@@ -157,11 +157,11 @@
 
 #### > Alterar a rede para o modo bridge, descomentar os endereços IPs estáticos e desativar o DHCP.
 
-> Como pode ser notado abaixo na figura:
+> Como pode ser notado abaixo nas figuras:
 
 <img src="/Projeto/Figuras/PC2/Passo5/vm1-pc2-bridge.png" title="vm1-pc2-Bridge" width="900" />
 
-<img src="/Projeto/Figuras/PC2/Passo5/vm1-pc2-internet.png" title="vm1-pc2-sudonano-nat" width="900" />
+<img src="/Projeto/Figuras/PC2/Passo5/vm1-pc2-sudobridge.png" title="vm1-pc1-sudonano-bridge" width="900" />
 
 -----------------------------------------------------------------------------
 
@@ -212,11 +212,11 @@
 
 #### > Alterar a rede para o modo bridge, descomentar os endereços IPs estáticos e desativar o DHCP.
 
-> Como pode ser notado abaixo na figura:
+> Como pode ser notado abaixo nas figuras:
 
 <img src="/Projeto/Figuras/PC2/Passo5/vm2-pc2-bridge.png" title="vm2-pc2-Bridge" width="900" />
 
-<img src="/Projeto/Figuras/PC2/Passo5/vm2-pc2-internet" title="vm2-pc2-sudonano-nat" width="900" />
+<img src="/Projeto/Figuras/PC2/Passo5/vm2-pc2-sudobridge.png" title="vm1-pc1-sudonano-bridge" width="900" />
     
 -----------------------------------------------------------------------------------------------------
 
