@@ -6,11 +6,11 @@
 
 <img src="/Projeto/Figuras/PC1/Passo5/vm1-pc1-redenat.png" title="VM1-PC1-NAT-Usando o SSH nas Máquinas Virtuais" width="1000" />
      
-#### > Comentar as linhas de endereçamento IP estático e ativar o DHCP, como na figura:
+#### > Comentar as linhas de endereçamento IP estático e ativar o DHCP, no terminal da Máquina Virtual. Como é apresentado na figura:
      
 <img src="/Projeto/Figuras/PC1/Passo5/vm1-pc1-sudonat.png" title="VM1-PC1-NAT-Usando o SSH nas Máquinas Virtuais" width="900" />
 
-#### > Para atribuir o nome do usuário na VM1-PC1 é utilizado o comando:
+#### > Para atribuir o nome do hostname na VM1-PC1 é utilizado o comando:
 
     sudo hostnamectl set-hostname srv-vm1-pc1
 
@@ -32,15 +32,18 @@
 > 
 <img src="/Projeto/Figuras/PC1/Passo5/status das portas.png" title="Status da Porta" width="900" />
 
-#### > Para a configuração do firewall, necessário para garantir que as portas etão funcionando corretamente, são utilizados os seguintes comandos:
+#### > Para a configuração do firewall, necessário para garantir que as portas estejam funcionando corretamente, são utilizados os seguintes comandos:
 
-    sudo ufw allow ssh.    # ativa o ssh no firewall UFW do ubuntu.
-    sudo ufw status
+    sudo ufw allow ssh    # ativa o ssh no firewall UFW do ubuntu
     
 #### > Para ativar o firewall:
 
     sudo ufw enable
     
+#### > Para verificar o status do firewall    
+     
+     sudo ufw status  
+
 > Como pode ser visto na figura:
 
 <img src="/Projeto/Figuras/PC1/Passo5/configuração do firewall.png" title="Status da Porta" width="900" />
@@ -62,11 +65,11 @@
 
 <img src="/Projeto/Figuras/PC1/Passo5/vm2-pc1-redenat.png" title="VM2-PC1-NAT-Usando o SSH nas Máquinas Virtuais" width="1000" />
      
-#### > Comentar as linhas de endereçamento IP estático e ativar o DHCP, como na figura:
+#### > Comentar as linhas de endereçamento IP estático e ativar o DHCP, no terminal da Máquina Virtual. Como é apresentado na figura::
      
 <img src="/Projeto/Figuras/PC1/Passo5/vm2-pc1-sudonat.png" title="VM2-PC1-NAT-Usando o SSH nas Máquinas Virtuais" width="900" />
 
-#### > Para atribuir o nome do usuário na VM2-PC1 é utilizado o comando:
+#### > Para atribuir o nome do hostname na VM2-PC1 é utilizado o comando:
 
     sudo hostnamectl set-hostname srv-vm2-pc1
 
@@ -88,16 +91,20 @@
 
 <img src="/Projeto/Figuras/PC1/Passo5/status das portas.png" title="Status da Porta" width="900" />
 
-#### > Para a configuração do firewall, necessário para garantir que as portas etão funcionando corretamente, são utilizados os seguintes comandos:
+#### > Para a configuração do firewall, necessário para garantir que as portas estejam funcionando corretamente, são utilizados os seguintes comandos:
 
-    sudo ufw allow ssh.    # ativa o ssh no firewall UFW do ubuntu.
-    sudo ufw status
+    sudo ufw allow ssh    # ativa o ssh no firewall UFW do ubuntu
     
 #### > Para ativar o firewall:
 
     sudo ufw enable
     
+#### > Para verificar o status do firewall    
+     
+     sudo ufw status  
+
 > Como pode ser visto na figura:
+
 <img src="/Projeto/Figuras/PC1/Passo5/configuração do firewall.png" title="Status da Porta" width="900" />
 
 #### > Alterar a rede para o modo bridge, descomentar os endereços IPs estáticos e desativar o DHCP.
@@ -116,11 +123,11 @@
 
 <img src="/Projeto/Figuras/PC2/Passo5/vm1-pc2-redenat.png" title="VM1-PC1-NAT-Usando o SSH nas Máquinas Virtuais" width="1000" />
      
-#### > Comentar as linhas de endereçamento IP estático e ativar o DHCP, como na figura:
+#### > Comentar as linhas de endereçamento IP estático e ativar o DHCP, no terminal da Máquina Virtual. Como é apresentado na figura::
      
 <img src="/Projeto/Figuras/PC2/Passo5/vm1-pc2-sudonat.png" title="VM1-PC1-NAT-Usando o SSH nas Máquinas Virtuais" width="900" />
 
-#### > Para atribuir o nome do usuário na VM1-PC2 é utilizado o comando:
+#### > Para atribuir o nome do hostname na VM1-PC2 é utilizado o comando:
 
     sudo hostnamectl set-hostname srv-vm1-pc2
 
@@ -142,15 +149,18 @@
 
 <img src="/Projeto/Figuras/PC1/Passo5/status das portas.png" title="Status da Porta" width="900" />
 
-#### > Para a configuração do firewall, necessário para garantir que as portas etão funcionando corretamente, são utilizados os seguintes comandos:
+#### > Para a configuração do firewall, necessário para garantir que as portas estejam funcionando corretamente, são utilizados os seguintes comandos:
 
-    sudo ufw allow ssh.    # ativa o ssh no firewall UFW do ubuntu.
-    sudo ufw status
+    sudo ufw allow ssh    # ativa o ssh no firewall UFW do ubuntu
     
 #### > Para ativar o firewall:
 
     sudo ufw enable
     
+#### > Para verificar o status do firewall    
+     
+     sudo ufw status  
+
 > Como pode ser visto na figura:
 
 <img src="/Projeto/Figuras/PC1/Passo5/configuração do firewall.png" title="Status da Porta" width="900" />
@@ -171,11 +181,11 @@
 
 <img src="/Projeto/Figuras/PC2/Passo5/vm2-pc2-redenat.png" title="VM2-PC1-NAT-Usando o SSH nas Máquinas Virtuais" width="1000" />
      
-#### > Comentar as linhas de endereçamento IP estático e ativar o DHCP, como na figura:
+#### > Comentar as linhas de endereçamento IP estático e ativar o DHCP, no terminal da Máquina Virtual. Como é apresentado na figura:
      
 <img src="/Projeto/Figuras/PC2/Passo5/vm2-pc2-sudonat.png" title="VM2-PC1-NAT-Usando o SSH nas Máquinas Virtuais" width="900" />
 
-#### > Para atribuir o nome do usuário na VM2-PC2 é utilizado o comando:
+#### > Para atribuir o nome do hostname na VM2-PC2 é utilizado o comando:
 
     sudo hostnamectl set-hostname srv-vm2-pc2
 
@@ -197,17 +207,20 @@
 
 <img src="/Projeto/Figuras/PC1/Passo5/status das portas.png" title="Status da Porta" width="900" />
 
-#### > Para a configuração do firewall, necessário para garantir que as portas etão funcionando corretamente, são utilizados os seguintes comandos:
+#### > Para a configuração do firewall, necessário para garantir que as portas estejam funcionando corretamente, são utilizados os seguintes comandos:
 
-    sudo ufw allow ssh.    # ativa o ssh no firewall UFW do ubuntu.
-    sudo ufw status
+    sudo ufw allow ssh    # ativa o ssh no firewall UFW do ubuntu
     
 #### > Para ativar o firewall:
 
     sudo ufw enable
     
+#### > Para verificar o status do firewall    
+     
+     sudo ufw status  
+
 > Como pode ser visto na figura:
-> 
+
 <img src="/Projeto/Figuras/PC1/Passo5/configuração do firewall.png" title="Status da Porta" width="900" />
 
 #### > Alterar a rede para o modo bridge, descomentar os endereços IPs estáticos e desativar o DHCP.
@@ -228,7 +241,7 @@
 
 ##### > Criação de novos usuários para as VMs, para a comunicação via ssh, pode ser feita com o comando:
     sudo adduser matheus   ->   Na VM1-PC1
-    sudo adduser ataide     ->   Na VM2-PC1
+    sudo adduser ataide    ->   Na VM2-PC1
      
     sudo adduser josival   ->   Na VM1-PC2
     sudo adduser costa     ->   Na VM2-PC2
