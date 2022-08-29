@@ -228,7 +228,7 @@
 
 ##### > Criação de novos usuários para as VMs, para a comunicação via ssh, pode ser feita com o comando:
     sudo adduser matheus   ->   Na VM1-PC1
-    sudo adduser taide     ->   Na VM2-PC1
+    sudo adduser ataide     ->   Na VM2-PC1
      
     sudo adduser josival   ->   Na VM1-PC2
     sudo adduser costa     ->   Na VM2-PC2
