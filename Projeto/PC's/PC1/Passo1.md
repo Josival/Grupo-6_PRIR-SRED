@@ -74,7 +74,7 @@ Para ter uma maior liberdade na manipulação das pastas/subpastas, iremos dar m
  sudo chgrp -R redes /labredes
  sudo chmod -R 771 /labredes #define permissões para que (U)ser/proprietário possa ler, escrever e executar. (G)roup pode ler, escrever e executar. (O)outros não podem ler, não podem escrever e podem executar
  ls -la
- getent group  #lista grupos: observe no fim da lista que os usuários também possuem grupos.                                                          
+ getent group  #lista os grupos criados: observe no fim da lista que os usuários também possuem grupos.                                                          
 ```
 
 
