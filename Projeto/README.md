@@ -10,9 +10,9 @@
 ### > Roteiro do Projeto
 #### Para o alcance do objetivo, a configuração das máquinas virtuais de cada PC foi fundamental. Acesse as configurações de cada um deles selecionando o PC desejado:
 - [PC 1](https://github.com/Josival/TrabalhoRedes/blob/main/Projeto/PC's/PC1/README.md)
-- [PC 2]()
-- [PC 3]()
-- [PC 4]()
+- [PC 2](https://github.com/Josival/Grupo-6_PRIR-SRED/tree/main/Projeto/PC's/PC2/README.md)
+- [PC 3](https://github.com/Josival/Grupo-6_PRIR-SRED/tree/main/Projeto/PC's/PC3/README.md)
+- [PC 4](https://github.com/Josival/Grupo-6_PRIR-SRED/tree/main/Projeto/PC's/PC3/README.md)
 
 #
 
