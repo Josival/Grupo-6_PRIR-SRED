@@ -1,6 +1,6 @@
 # Passo 5 - Usando o SSH nas máquinas virtuais
 
-### Na VM1-PC1 
+### - Na VM1-PC1 
 
 #### > Alterar a rede para o modo NAT, como na figura:
 
@@ -65,7 +65,7 @@
 
 -------------------------------------------------------------------------------------------------------------
 
-### Na VM2-PC1
+### - Na VM2-PC1
 
 #### > Alterar a rede para o modo NAT, como na figura:
 
@@ -129,7 +129,7 @@
 
 --------------------------------------------------------------------------
 
-### Na VM1-PC2
+### - Na VM1-PC2
 
 #### > Alterar a rede para o modo NAT, como na figura:
 
@@ -193,7 +193,7 @@
 
 -----------------------------------------------------------------------------
 
-### Na VM2-PC2
+### - Na VM2-PC2
 
 #### > Alterar a rede para o modo NAT, como na figura:
 
