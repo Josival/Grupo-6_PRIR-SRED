@@ -2,26 +2,30 @@
 
 > Use o comando ``exit`` para sair do usuário logado quando desejar
 
-##### - Da VM1-PC1 para a VM1-PC2
+##### - Da VM1-PC3 para a VM1-PC4
 
-    ssh josival@192.168.24.83
+    ssh josival@192.168.24.87
+
+<p align="center">
+<img src="/Projeto/Figuras/PC1/Passo5/vm1-pc1-ssh.png" title="Testes de SSH" width="800" />
     
-<img src="/Projeto/Figuras/PC1/Passo5/vm1-pc1-ssh.png" title="VM1-PC1-SSH-Usando o SSH nas Máquinas Virtuais" width="800" />
+##### - Da VM2-PC3 para a VM2-PC4
+
+    ssh costa@192.168.24.88
+ 
+<p align="center">    
+<img src="/Projeto/Figuras/PC1/Passo5/vm2-pc1-ssh.png" title="Testes de SSH" width="800" />
+
+##### - Da VM1-PC4 para a VM1-PC3
+
+    ssh matheus@192.168.24.85
     
-##### - Da VM2-PC1 para a VM2-PC2:
+<p align="center">    
+<img src="/Projeto/Figuras/PC2/Passo5/vm1-pc2-ssh.png" title="Testes de SSH" width="800" />
 
-    ssh costa@192.168.24.84
+##### - Da VM2-PC4 para a VM2-PC3
+
+    ssh ataide@192.168.24.86
     
-<img src="/Projeto/Figuras/PC1/Passo5/vm2-pc1-ssh.png" title="VM2-PC1-SSH-Usando o SSH nas Máquinas Virtuais" width="800" />
-
-##### - Da VM1-PC2 para a VM1-PC1
-
-    ssh matheus@192.168.24.81
-    
-<img src="/Projeto/Figuras/PC2/Passo5/vm1-pc2-ssh.png" title="VM1-PC2-SSH-Usando o SSH nas Máquinas Virtuais" width="800" />
-
-##### - Da VM2-PC2 para a VM2-PC1:
-
-    ssh ataide@192.168.24.82
-    
-<img src="/Projeto/Figuras/PC2/Passo5/vm2-pc2-ssh.png" title="VM2-PC2-SSH-Usando o SSH nas Máquinas Virtuais" width="800" />
+<p align="center">    
+<img src="/Projeto/Figuras/PC2/Passo5/vm2-pc2-ssh.png" title="Testes de SSH" width="800" />
