@@ -83,6 +83,7 @@ sudo nano /etc/hosts
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ```
+ > Para as outras VM's do PC1 e PC2, deve ser alterado a segunda linha do comando (``"127.0.1.1 srv-vm1-pc1"``), alterando somente o hostname
 
 
 ### > Acessando uma VM remotamente:
