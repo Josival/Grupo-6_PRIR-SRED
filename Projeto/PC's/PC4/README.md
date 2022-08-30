@@ -1,4 +1,4 @@
-## ETAPAS PARA A CONFIGURAÇÃO DO PC 1
+## ETAPAS PARA A CONFIGURAÇÃO DO PC 4
 
 ### > Acesse a Etapa desejada:
 - [Passo 1 - Criação das Pastas no Computador](https://github.com/Josival/Grupo-6_PRIR-SRED/blob/main/Projeto/PC's/PC4/Passo1.md)
