@@ -1,4 +1,4 @@
-# Testes da Rede - SSH's entre as Máquinas Virtuais do PC 1 e PC 2
+# Testes da Rede - SSH's entre as Máquinas Virtuais do PC 3 e PC 4
 
 > Use o comando ``exit`` para sair do usuário logado quando desejar
 
