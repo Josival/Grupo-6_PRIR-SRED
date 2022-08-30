@@ -7,7 +7,7 @@
 * ### De VM1-PC1 para VM1-PC2
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/86027160/186730059-09f333f4-cf40-4b48-b7c4-ff7217c9ad3a.png" style="width:900px;height:400px;">
+<img src="/Projeto/Figuras/PC1/Passo5/vm1-pc1-ping.png" style="width:900px;height:400px;">
 
 * ### De VM1-PC1 para VM2-PC2
 
