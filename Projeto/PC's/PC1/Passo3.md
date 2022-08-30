@@ -6,8 +6,6 @@
 
 #### > Usar o usuário da VM:
      administrador
-##### - Senha:
-     adminifal
 
 #### > Instalação do net-tools:
      sudo apt install net-tools -y  
@@ -32,8 +30,6 @@
 
 #### > Usar o usuário da VM:
      administrador
-##### - Senha:
-     adminifal
 
 #### > Instalação do net-tools:
      sudo apt install net-tools -y  
