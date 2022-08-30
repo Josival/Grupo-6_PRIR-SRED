@@ -99,6 +99,6 @@ ssh administrador@192.168.24.83
 - Acesse o diretório com os [Testes dos SSH's das VM's do PC 1 e PC 2](https://github.com/Josival/Grupo-6_PRIR-SRED/blob/main/TestesDaRede/Testes:PC1-PC2/SSH.md) para ver exemplos
 
 ### > Conclusão
-Após o término desse Passo 7, você pode retornar para a [tela de escolha do PC](https://github.com/Josival/Grupo-6_PRIR-SRED/blob/main/Projeto/README.md) que deseseja configurar. Ou confirmado a configuração do PC 1 e 2, pode direcionar para a configuração do [PC 3](url).
+Após o término desse Passo 7, você pode retornar para a [tela de escolha do PC](https://github.com/Josival/Grupo-6_PRIR-SRED/blob/main/Projeto/README.md) se desejar configurar algum PC. Caso não, seu projeto está finalizado!
 
 
