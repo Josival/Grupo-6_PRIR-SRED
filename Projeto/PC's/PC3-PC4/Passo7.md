@@ -64,11 +64,11 @@ sudo nano /etc/hosts
 
 > Obs.: Colocaremos as configurações que fizemos para nosso grupo, mas você pode colocar da maneira que você desejar configurar
 
-* Exemplo do arquivo /etc/hosts na VM1:
+* Arquivo /etc/hosts na VM1-PC1:
 
 ```
 127.0.0.1 localhost
-127.0.1.1 srv-vm1-pc1  
+127.0.1.1 srv-vm1-pc3  
 192.168.24.81     srv-vm1-pc1     matheus1.grupo6-924.ifalara.net     matheus
 192.168.24.82     srv-vm2-pc1     matheus2.grupo6-924.ifalara.net     ataide
 192.168.24.83     srv-vm1-pc2     josival1.grupo6-924.ifalara.net     josival
@@ -83,7 +83,7 @@ sudo nano /etc/hosts
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ```
-
+ > Para as outras VM's do PC3 e PC4, deve ser alterado a segunda linha do comando (``"127.0.1.1 srv-vm1-pc3"``), alterando somente o hostname
 
 ### > Acessando uma VM remotamente:
 
