@@ -1,6 +1,6 @@
 # Testes da Rede - Pings entre o PC 3 e PC 4
 
-> Para cancelar o ping é só pressionar as teclas: ``ctrl + C``
+> Para cancelar o ping é só pressionar as teclas: ``Ctrl + C``
 ##### - Da VM1-PC3 para a VM1-PC4
 
     ping 192.168.24.87
