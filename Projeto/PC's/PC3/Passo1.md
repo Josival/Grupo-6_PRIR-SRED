@@ -9,12 +9,6 @@
 ```bash
 su redes
 ```
-#### - Senha para entrar no usuário ``redes``
-```bash
-admin@Lab92
-```
-Obs.: Ao digitar a senha no terminal, ela não estará visível para o usuário, mas estará sendo escrita ocultamente.
-
 
 ### > Instalar Net-tools
 Essa instalação proporcionará o acesso a um pacote com várias ferramentas úteis para uso na sua rede local.
