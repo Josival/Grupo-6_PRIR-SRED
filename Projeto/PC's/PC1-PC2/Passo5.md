@@ -5,7 +5,7 @@
 #### > Alterar a rede para o modo NAT, como na figura:
 
 <p align = "center">
-<img src="/Projeto/Figuras/PC1/Passo5/vm1-pc1-redenat.png" title="VM1-PC1-NAT-Usando o SSH nas Máquinas Virtuais" width="1000" />
+<img src="/Projeto/Figuras/PC1/Passo5/vm1-pc1-redenat.png" title="VM1-PC1-NAT-Usando o SSH nas Máquinas Virtuais" width="900" />
      
 #### > Comentar as linhas de endereçamento IP estático e ativar o DHCP, no terminal da Máquina Virtual. Como é apresentado na figura:
 
