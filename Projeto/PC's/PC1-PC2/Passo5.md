@@ -4,10 +4,12 @@
 
 #### > Alterar a rede para o modo NAT, como na figura:
 
+<p align = "center">
 <img src="/Projeto/Figuras/PC1/Passo5/vm1-pc1-redenat.png" title="VM1-PC1-NAT-Usando o SSH nas Máquinas Virtuais" width="1000" />
      
 #### > Comentar as linhas de endereçamento IP estático e ativar o DHCP, no terminal da Máquina Virtual. Como é apresentado na figura:
-     
+
+<p align = "center">     
 <img src="/Projeto/Figuras/PC1/Passo5/vm1-pc1-sudonat.png" title="VM1-PC1-NAT-Usando o SSH nas Máquinas Virtuais" width="900" />
 
 #### > Para atribuir o nome do hostname na VM1-PC1 é utilizado o comando:
@@ -29,7 +31,8 @@
     netstat -an | grep LISTEN.  #verifique as conexões TCP na porta 22 se está como LISTENING
     
 > Como pode ser visto na figura:
-> 
+
+<p align = "center">     
 <img src="/Projeto/Figuras/PC1/Passo5/status das portas.png" title="Status da Porta" width="900" />
 
 #### > Para a configuração do firewall, necessário para garantir que as portas estejam funcionando corretamente, são utilizados os seguintes comandos:
@@ -46,6 +49,7 @@
 
 > Como pode ser visto na figura:
 
+<p align = "center">     
 <img src="/Projeto/Figuras/PC1/Passo5/configuração do firewall.png" title="Status da Porta" width="900" />
 
 
@@ -53,8 +57,10 @@
 
 > Como pode ser notado abaixo nas figuras:
 
+<p align = "center">     
 <img src="/Projeto/Figuras/PC1/Passo5/vm1-pc1-bridge.png" title="vm1-pc1-Bridge" width="900" />
 
+<p align = "center">     
 <img src="/Projeto/Figuras/PC1/Passo5/vm1-pc1-sudobridge.png" title="vm1-pc1-sudonano-bridge" width="900" />
 
 -------------------------------------------------------------------------------------------------------------
@@ -63,10 +69,12 @@
 
 #### > Alterar a rede para o modo NAT, como na figura:
 
+<p align = "center">     
 <img src="/Projeto/Figuras/PC1/Passo5/vm2-pc1-redenat.png" title="VM2-PC1-NAT-Usando o SSH nas Máquinas Virtuais" width="1000" />
      
 #### > Comentar as linhas de endereçamento IP estático e ativar o DHCP, no terminal da Máquina Virtual. Como é apresentado na figura::
      
+<p align = "center">     
 <img src="/Projeto/Figuras/PC1/Passo5/vm2-pc1-sudonat.png" title="VM2-PC1-NAT-Usando o SSH nas Máquinas Virtuais" width="900" />
 
 #### > Para atribuir o nome do hostname na VM2-PC1 é utilizado o comando:
@@ -89,6 +97,7 @@
     
 > Como pode ser visto na figura:
 
+<p align = "center">     
 <img src="/Projeto/Figuras/PC1/Passo5/status das portas.png" title="Status da Porta" width="900" />
 
 #### > Para a configuração do firewall, necessário para garantir que as portas estejam funcionando corretamente, são utilizados os seguintes comandos:
@@ -105,14 +114,17 @@
 
 > Como pode ser visto na figura:
 
+<p align = "center">     
 <img src="/Projeto/Figuras/PC1/Passo5/configuração do firewall.png" title="Status da Porta" width="900" />
 
 #### > Alterar a rede para o modo bridge, descomentar os endereços IPs estáticos e desativar o DHCP.
 
 > Como pode ser notado abaixo nas figuras:
 
+<p align = "center">     
 <img src="/Projeto/Figuras/PC1/Passo5/vm2-pc1-bridge.png" title="vm2-pc1-Bridge" width="900" />
 
+<p align = "center">     
 <img src="/Projeto/Figuras/PC1/Passo5/vm2-pc1-sudobridge.png" title="vm1-pc1-sudonano-bridge" width="900" />
 
 --------------------------------------------------------------------------
@@ -121,10 +133,12 @@
 
 #### > Alterar a rede para o modo NAT, como na figura:
 
+<p align = "center">     
 <img src="/Projeto/Figuras/PC2/Passo5/vm1-pc2-redenat.png" title="VM1-PC1-NAT-Usando o SSH nas Máquinas Virtuais" width="1000" />
      
 #### > Comentar as linhas de endereçamento IP estático e ativar o DHCP, no terminal da Máquina Virtual. Como é apresentado na figura::
      
+<p align = "center">     
 <img src="/Projeto/Figuras/PC2/Passo5/vm1-pc2-sudonat.png" title="VM1-PC1-NAT-Usando o SSH nas Máquinas Virtuais" width="900" />
 
 #### > Para atribuir o nome do hostname na VM1-PC2 é utilizado o comando:
@@ -147,6 +161,7 @@
     
 > Como pode ser visto na figura:
 
+<p align = "center">     
 <img src="/Projeto/Figuras/PC1/Passo5/status das portas.png" title="Status da Porta" width="900" />
 
 #### > Para a configuração do firewall, necessário para garantir que as portas estejam funcionando corretamente, são utilizados os seguintes comandos:
@@ -163,14 +178,17 @@
 
 > Como pode ser visto na figura:
 
+<p align = "center">     
 <img src="/Projeto/Figuras/PC1/Passo5/configuração do firewall.png" title="Status da Porta" width="900" />
 
 #### > Alterar a rede para o modo bridge, descomentar os endereços IPs estáticos e desativar o DHCP.
 
 > Como pode ser notado abaixo nas figuras:
 
+<p align = "center">     
 <img src="/Projeto/Figuras/PC2/Passo5/vm1-pc2-bridge.png" title="vm1-pc2-Bridge" width="900" />
 
+<p align = "center">     
 <img src="/Projeto/Figuras/PC2/Passo5/vm1-pc2-sudobridge.png" title="vm1-pc1-sudonano-bridge" width="900" />
 
 -----------------------------------------------------------------------------
@@ -179,10 +197,12 @@
 
 #### > Alterar a rede para o modo NAT, como na figura:
 
+<p align = "center">     
 <img src="/Projeto/Figuras/PC2/Passo5/vm2-pc2-redenat.png" title="VM2-PC1-NAT-Usando o SSH nas Máquinas Virtuais" width="1000" />
      
 #### > Comentar as linhas de endereçamento IP estático e ativar o DHCP, no terminal da Máquina Virtual. Como é apresentado na figura:
      
+<p align = "center">     
 <img src="/Projeto/Figuras/PC2/Passo5/vm2-pc2-sudonat.png" title="VM2-PC1-NAT-Usando o SSH nas Máquinas Virtuais" width="900" />
 
 #### > Para atribuir o nome do hostname na VM2-PC2 é utilizado o comando:
@@ -205,6 +225,7 @@
     
 > Como pode ser visto na figura:
 
+<p align = "center">     
 <img src="/Projeto/Figuras/PC1/Passo5/status das portas.png" title="Status da Porta" width="900" />
 
 #### > Para a configuração do firewall, necessário para garantir que as portas estejam funcionando corretamente, são utilizados os seguintes comandos:
@@ -227,8 +248,10 @@
 
 > Como pode ser notado abaixo nas figuras:
 
+<p align = "center">     
 <img src="/Projeto/Figuras/PC2/Passo5/vm2-pc2-bridge.png" title="vm2-pc2-Bridge" width="900" />
 
+<p align = "center">     
 <img src="/Projeto/Figuras/PC2/Passo5/vm2-pc2-sudobridge.png" title="vm1-pc1-sudonano-bridge" width="900" />
     
 -----------------------------------------------------------------------------------------------------
