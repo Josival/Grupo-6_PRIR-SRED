@@ -82,4 +82,4 @@
 #
 
 ### > Conclusão
-Antes de ir para o passo 4, [configure ás maquinas virtuais do PC2](). Se o PC2 já estiver configurado, continue no [Próximo Passo](https://github.com/Josival/TrabalhoRedes/blob/main/Projeto/PC's/PC1-PC2/Passo4.md)
+Antes de ir para o passo 4, [configure ás maquinas virtuais do PC4](). Se o PC4 já estiver configurado, continue no [Próximo Passo](https://github.com/Josival/TrabalhoRedes/blob/main/Projeto/PC's/PC3-PC4/Passo4.md)
