@@ -9,12 +9,9 @@
 ```bash
 su redes
 ```
+#### > Digite a senha
 
-### > Instalar Net-tools
-Essa instalação proporcionará o acesso a um pacote com várias ferramentas úteis para uso na sua rede local.
-```bash
-sudo apt install net-tools
-```
+#### Obs.: Ao digitar a senha, ela não estará visivel para o usuário, contudo estará sendo escrita!
 
 ### > Criar pasta ``labredes`` na raiz ``/``
 ```bash
