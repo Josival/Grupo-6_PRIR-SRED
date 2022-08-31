@@ -20,3 +20,7 @@
 * Se desejar fazer uma Reconfiguração de teclado para pt-BR ABNT2 no **Terminal da Máquina Virtual**, [clique aqui](https://github.com/alaelson/2022-924-notasdeaula/blob/main/keyboardLayout-pt_Br.md)
 
 * Para a instalação e configuração do VirtualBox, acesse este vídeo: https://www.youtube.com/watch?v=PaDTA4B7K4U
+
+#
+### > Considerações Finais
+Ao fim do desenvolvimento do projeto foi possível visualizar um topologia de rede formada por quatro computadores, quatro cabos de rede de par trançado (um quinto com acesso a rede de internet), um switch com 8 domínios de brodcast que trocavam informaçãoes através dos comandos ping e ssh, os quais permitiam uma conexão entre os computadores e as Máquinas Virtuais, podendo assim, acessar todas as máquinas que estavam ligadas a rede.
