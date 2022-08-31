@@ -9,3 +9,9 @@
 <img src="Projeto/Figuras/TopologiaFisica/topologiafisica3.jpeg" title="Topologia Física da Rede Virtualizada" width="700" />
 
 <img src="Projeto/Figuras/TopologiaFisica/topologiafisica4.jpeg" title="Topologia Física da Rede Virtualizada" width="700" />
+
+<img src="Projeto/Figuras/TopologiaFisica/cabos_pcs.jpeg" title="Topologia Física da Rede Virtualizada" width="700" />
+
+<img src="Projeto/Figuras/TopologiaFisica/conexao_switch.jpeg" title="Topologia Física da Rede Virtualizada" width="700" />
+
+<img src="Projeto/Figuras/TopologiaFisica/computadores_conectados_switch.jpeg" title="Topologia Física da Rede Virtualizada" width="700" />
