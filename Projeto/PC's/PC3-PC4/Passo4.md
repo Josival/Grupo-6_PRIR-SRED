@@ -11,7 +11,7 @@
 > Você deve realizar essas configurações nos dois PC's. Como pode ser visualizado nas figuras a seguir:
 
 <p align = "center">
-<img src="/Projeto/Figuras/PC1/Passo4/vm1-pc1-bridge.png" title="VM1-PC1-Conexão entre as VMs Via Cabo Ethernet" width="950" />
+<img src="/Projeto/Figuras/PC1/Passo4/modobridge.png" title="Conexão entre as VMs Via Cabo Ethernet" width="950" />
 </p>
 
 #### > Novamente utiliza-se o ping para o estabelecimento da comunicação, que agora é entre máquinas virtuais de PCs distintos. Para isso, é utilizado o seguinte comando:
