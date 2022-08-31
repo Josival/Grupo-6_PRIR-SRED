@@ -9,7 +9,7 @@
 ```bash
 su redes
 ```
-#### > Digite a senha
+#### - Digite a senha do Usuário
 
 #### Obs.: Ao digitar a senha, ela não estará visivel para o usuário, contudo estará sendo escrita!
 
