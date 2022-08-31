@@ -46,7 +46,7 @@
 > Figura mostrando o sudo nano, após as alterações:
 
 <p align = "center">
-<img src="/Projeto/Figuras/PC4/Passo3/vm1-pc4-sudonano.png" title="VM1-PC4-Configurações Iniciais das Máquinas Virtuais" width="950" />
+<img src="/Projeto/Figuras/PC4/Passo3/vm2-pc4-sudonano.png" title="VM2-PC4-Configurações Iniciais das Máquinas Virtuais" width="950" />
 </p>
      
 #### > Para aplicar as mudanças feitas no comando anterior;
