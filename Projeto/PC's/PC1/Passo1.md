@@ -9,6 +9,9 @@
 ```bash
 su redes
 ```
+#### > Digite a senha
+
+#### Obs.: Ao digitar a senha, ela não estará visivel para o usuário, contudo estará sendo escrita!
 
 
 ### > Instalar Net-tools
