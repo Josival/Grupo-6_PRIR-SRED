@@ -19,33 +19,33 @@
 * ### De VM1-PC2 para VM1-PC3
 
 <p align="center">  
-<img src="/Projeto/Figuras/PC1/Passo5/vm1-pc1-ping.png" title="Testes de Ping" width="800" />
+<img src="/Projeto/Figuras/Testes/Ping/vm1-pc2-para-vm1-pc3.png" title="Testes de Ping" width="800" />
 
 * ### De VM2-PC2 para VM2-PC3
   
 <p align="center">  
-<img src="/Projeto/Figuras/PC1/Passo5/vm1-pc1-ping.png" title="Testes de Ping" width="800" />
+<img src="/Projeto/Figuras/Testes/Ping/vm2-pc2-para-vm2-pc3.png" title="Testes de Ping" width="800" />
 
 # Testes de Ping para FQDN
   
 * ### De VM1-PC3 para VM1-PC4
   
 <p align="center">  
-<img src="/Projeto/Figuras/PC1/Passo5/vm1-pc1-ping.png" title="Testes de Ping" width="800" />
+<img src="/Projeto/Figuras/Testes/Ping/vm1-pc3-para-vm1-pc4.png" title="Testes de Ping" width="800" />
 
 * ### De VM2-PC3 para VM2-PC4
 
 <p align="center">  
-<img src="/Projeto/Figuras/PC1/Passo5/vm1-pc1-ping.png" title="Testes de Ping" width="800" />
+<img src="/Projeto/Figuras/Testes/Ping/vm2-pc3-para-vm2-pc4.png" title="Testes de Ping" width="800" />
 
 # Testes de Ping para aliase
   
 * ### De VM1-PC4 para VM1-PC1
 
 <p align="center">  
-<img src="/Projeto/Figuras/PC1/Passo5/vm1-pc1-ping.png" title="Testes de Ping" width="800" />
+<img src="/Projeto/Figuras/Testes/Ping/vm1-pc4-para-vm1-pc1.png" title="Testes de Ping" width="800" />
 
 * ### De VM2-PC4 para VM2-PC1
   
 <p align="center">  
-<img src="/Projeto/Figuras/PC1/Passo5/vm1-pc1-ping.png" title="Testes de Ping" width="800" />
+<img src="/Projeto/Figuras/Testes/Ping/vm2-pc4-para-vm2-pc1.png" title="Testes de Ping" width="800" />
