@@ -11,15 +11,15 @@ Para a criação das VMs, vamos importar a imagem .OVA, ela será necessária pa
 <img src="https://user-images.githubusercontent.com/86027160/183978615-8366e422-6321-4bcb-b040-48e634fb4740.png" title="VM2-PC1-Criação das VMs da Rede" width="550" /> 
 </p>
 
-#### - VM1-PC1
+#### - VM1-PC2
 
 <p align="center">
-<img src="/Projeto/Figuras/PC1/Passo2/vm1-pc1-importarappliance.jpeg" title="VM1-PC1-Criação das VMs da Rede" width="950" />
+<img src="/Projeto/Figuras/PC2/Passo2/vm1-pc2-importarappliance.jpeg" title="VM1-PC2-Criação das VMs da Rede" width="950" />
 </p>
 
-#### - VM2-PC1
+#### - VM2-PC2
 <p align="center">                                                                                                                          
-<img src="/Projeto/Figuras/PC1/Passo2/vm2-pc1-importarappliance.jpeg" title="VM2-PC1-Criação das VMs da Rede" width="950" />
+<img src="/Projeto/Figuras/PC2/Passo2/vm2-pc2-importarappliance.jpeg" title="VM2-PC2-Criação das VMs da Rede" width="950" />
 </p>
 
 **1 - Local da Imagem da .OVA:** Você irá selecionar a imagem do Linux que foi baixada e inserida na pasta /labredes/imagem/original/
@@ -33,4 +33,4 @@ Para a criação das VMs, vamos importar a imagem .OVA, ela será necessária pa
 #
 
 ### > Conclusão
-Após o término desse Passo 2, direcione para o [Próximo Passo](https://github.com/Josival/TrabalhoRedes/blob/main/Projeto/PC's/PC1/Passo3.md)
+Após o término desse Passo 2, direcione para o [Próximo Passo](https://github.com/Josival/TrabalhoRedes/blob/main/Projeto/PC's/PC2/Passo3.md)
