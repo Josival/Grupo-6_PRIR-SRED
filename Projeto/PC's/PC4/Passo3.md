@@ -73,10 +73,10 @@
 
 #### > Para verificar se as máquinas estão se conectando usa-se o ping, como pode ser visto a seguir:
 
-##### - Da VM1-PC1 para a VM2-PC1:
-     ping 192.168.24.82
-##### - Da VM2-PC1 para a VM1-PC1:
-     ping 192.168.24.81
+##### - Da VM1-PC4 para a VM2-PC4:
+     ping 192.168.24.88
+##### - Da VM2-PC4 para a VM1-PC4:
+     ping 192.168.24.87
 
 #
 
