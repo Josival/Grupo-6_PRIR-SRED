@@ -61,7 +61,7 @@
 <img src="/Projeto/Figuras/PC3/Passo5/vm1-pc3-bridge.png" title="vm1-pc3-Bridge" width="900" />
 
 <p align = "center">     
-<img src="/Projeto/Figuras/PC3/Passo5/vm1-pc3-sudobridge.png" title="vm1-pc3-sudonano-bridge" width="900" />
+<img src="/Projeto/Figuras/PC3/Passo3/vm1-pc3-sudonano.png" title="vm1-pc3-sudonano-bridge" width="900" />
 
 -------------------------------------------------------------------------------------------------------------
 
@@ -125,7 +125,7 @@
 <img src="/Projeto/Figuras/PC3/Passo5/vm2-pc3-bridge.png" title="vm2-pc3-Bridge" width="900" />
 
 <p align = "center">     
-<img src="/Projeto/Figuras/PC3/Passo5/vm2-pc3-sudobridge.png" title="vm1-pc3-sudonano-bridge" width="900" />
+<img src="/Projeto/Figuras/PC3/Passo3/vm2-pc3-sudonano.png" title="vm1-pc3-sudonano-bridge" width="900" />
 
 --------------------------------------------------------------------------
 
