@@ -258,7 +258,7 @@
 
 ####  > Fazendo uso do ping entre as máquinas para verificar se está ocorrendo a comunicação e se tudo foi configurado corretamente:
 
-- Acesse o diretório com os [Testes dos Ping's das VM's do PC 1 e PC 2](https://github.com/Josival/Grupo-6_PRIR-SRED/blob/main/TestesDaRede/Testes:PC3-PC4/Pings.md)
+- Acesse o diretório com os [Testes dos Ping's das VM's do PC 3 e PC 4](https://github.com/Josival/Grupo-6_PRIR-SRED/blob/main/TestesDaRede/Testes:PC3-PC4/Pings.md)
 
 #
 
@@ -273,7 +273,7 @@
      
 ### > A comunicação via SSH é feita da seguinte forma:
 
-- Acesse o diretório com os [Testes dos SSH's das VM's do PC 1 e PC 2](https://github.com/Josival/Grupo-6_PRIR-SRED/blob/main/TestesDaRede/Testes:PC3-PC4/SSH.md)
+- Acesse o diretório com os [Testes dos SSH's das VM's do PC 3 e PC 4](https://github.com/Josival/Grupo-6_PRIR-SRED/blob/main/TestesDaRede/Testes:PC3-PC4/SSH.md)
 
 -----------------------------------------------------------------------------------------------------
 
