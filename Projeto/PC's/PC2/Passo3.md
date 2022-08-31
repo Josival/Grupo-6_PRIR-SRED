@@ -2,7 +2,7 @@
 
 - Após o passo anterior inicie as Máquinas Virtuais para fazer as seguintes configurações:
 
-### - Na VM1-PC1
+### - Na VM1-PC2
 
 #### > Usar o usuário da VM:
      administrador
@@ -20,7 +20,7 @@
 > Figura mostrando o sudo nano, após as alterações:
 
 <p align = "center">
-<img src="/Projeto/Figuras/PC1/Passo3/vm1-pc1-sudonano.png" title="VM1-PC1-Configurações Iniciais das Máquinas Virtuais" width="950" />
+<img src="/Projeto/Figuras/PC2/Passo3/vm1-pc2-sudonano.png" title="VM1-PC2-Configurações Iniciais das Máquinas Virtuais" width="950" />
 </p>
      
 #### > Para aplicar as mudanças feitas no comando anterior;
@@ -28,7 +28,7 @@
 
 #
 
-### - Na VM2-PC1
+### - Na VM2-PC2
 
 #### > Usar o usuário da VM:
      administrador
@@ -46,7 +46,7 @@
 > Figura mostrando o sudo nano, após as alterações:
 
 <p align = "center">
-<img src="/Projeto/Figuras/PC1/Passo3/vm1-pc1-sudonano.png" title="VM1-PC1-Configurações Iniciais das Máquinas Virtuais" width="950" />
+<img src="/Projeto/Figuras/PC2/Passo3/vm1-pc2-sudonano.png" title="VM1-PC2-Configurações Iniciais das Máquinas Virtuais" width="950" />
 </p>
      
 #### > Para aplicar as mudanças feitas no comando anterior;
@@ -61,22 +61,22 @@
 
 #### > Nas configurações de rede das máquinas virtuais, alterar do modo NAT para a rede interna, como mostrado nas figuras:
 
-#### - VM1-PC1:
+#### - VM1-PC2:
 <p align = "center">
-<img src="/Projeto/Figuras/PC1/Passo3/vm1-pc1-redeinterna.png" title="VM1-PC1-Configurações Iniciais das Máquinas Virtuais" width="950" />
+<img src="/Projeto/Figuras/PC2/Passo3/vm1-pc2-redeinterna.png" title="VM1-PC2-Configurações Iniciais das Máquinas Virtuais" width="950" />
 </p>
 
 #### - VM2-PC1:
 <p align = "center">
-<img src="/Projeto/Figuras/PC1/Passo3/vm2-pc1-redeinterna.png" title="VM1-PC1-Configurações Iniciais das Máquinas Virtuais" width="950" />
+<img src="/Projeto/Figuras/PC2/Passo3/vm2-pc2-redeinterna.png" title="VM1-PC2-Configurações Iniciais das Máquinas Virtuais" width="950" />
 </p>
 
 #### > Para verificar se as máquinas estão se conectando usa-se o ping, como pode ser visto a seguir:
 
-##### - Da VM1-PC1 para a VM2-PC1:
-     ping 192.168.24.82
-##### - Da VM2-PC1 para a VM1-PC1:
-     ping 192.168.24.81
+##### - Da VM1-PC2 para a VM2-PC2:
+     ping 192.168.24.84
+##### - Da VM2-PC2 para a VM1-PC2:
+     ping 192.168.24.83
 
 #
 
