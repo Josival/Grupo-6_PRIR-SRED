@@ -11,7 +11,7 @@ su redes
 ```
 #### - Digite a senha do Usuário
 
-#### Obs.: Ao digitar a senha, ela não estará visivel para o usuário, contudo estará sendo escrita!
+> Ao digitar a senha, ela não estará visivel para o usuário, contudo estará sendo escrita!
 
 ### > Criar pasta ``labredes`` na raiz ``/``
 ```bash
