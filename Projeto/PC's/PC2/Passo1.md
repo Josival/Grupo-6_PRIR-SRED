@@ -11,7 +11,7 @@ su redes
 ```
 #### > Digite a senha
 
-#### obs.: Ao digitar a senha, ela não estará visivel para o usuário, contudo estará sendo escrita!
+#### Obs.: Ao digitar a senha, ela não estará visivel para o usuário, contudo estará sendo escrita!
 
 ### > Instalar Net-tools
 Essa instalação proporcionará o acesso a um pacote com várias ferramentas úteis para uso na sua rede local.
@@ -93,4 +93,4 @@ scp aluno@192.168.101.10:~/Public/iso-images/ubuntu-server-mini.ova /labredes/im
 
 
 ### > Conclusão
-Após o término desse Passo 1, direcione para o [Próximo Passo](https://github.com/Josival/Grupo-6_PRIR-SRED/blob/main/Projeto/PC's/PC1/Passo2.md)
+Após o término desse Passo 1, direcione para o [Próximo Passo](https://github.com/Josival/Grupo-6_PRIR-SRED/blob/main/Projeto/PC's/PC2/Passo2.md)
