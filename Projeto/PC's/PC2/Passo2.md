@@ -24,9 +24,9 @@ Para a criação das VMs, vamos importar a imagem .OVA, ela será necessária pa
 
 **1 - Local da Imagem da .OVA:** Você irá selecionar a imagem do Linux que foi baixada e inserida na pasta /labredes/imagem/original/
 
-**2 - Nome da VM:** Você pode renomear para outro nome, se preferir (Alteramos de "ubuntu-server-mini" para "VM1-PC3-ClaraLeao")
+**2 - Nome da VM:** Você pode renomear para outro nome, se preferir (Alteramos de "ubuntu-server-mini" para "VM1-PC2-JosivalCosta")
 
-**3 - Pasta Padrão para Máquinas:** Você irá selecionar a pasta que deseja colocar a Máquina Virtual (Colocamos na pasta /labredes/VM/924/ClaraLeao)
+**3 - Pasta Padrão para Máquinas:** Você irá selecionar a pasta que deseja colocar a Máquina Virtual (Colocamos na pasta /labredes/VM/924/JosivalCosta)
 
 **4 - Política de Endereço MAC:** É preciso que seja selecionada a opção `Gerar novos endereços MAC para todas as placas de rede` para que para cada interface de rede um novo endereço MAC seja criado
 
