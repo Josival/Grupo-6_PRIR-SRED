@@ -2,7 +2,7 @@
 
 
 ### > Objetivo 
-* O objetivo principal é a criação de uma rede estrela com 8 VMs distribuídas em 4 PCs conectados por um Switch. No fim, teremos 8 máquinas conectadas na mesma rede e com acesso remoto um ao outro via SSH.
+* O objetivo principal é a criação de uma rede com 8 VMs distribuídas em 4 PCs conectados por um Switch.
 * Para isso, tanto as VMs como as suas interfaces de rede devem ser configuradas.
 
 #
