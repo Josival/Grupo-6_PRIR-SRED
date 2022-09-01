@@ -256,7 +256,7 @@
     
 -----------------------------------------------------------------------------------------------------
 
-####  > Fazendo uso do ping entre as máquinas para verificar se está ocorrendo a comunicação e se tudo foi configurado corretamente:
+####  > Fazer o uso do ping entre as máquinas para verificar se está ocorrendo a comunicação e se tudo foi configurado corretamente:
 
 - Acesse o diretório com os [Testes dos Ping's das VM's do PC 1 e PC 2](https://github.com/Josival/Grupo-6_PRIR-SRED/blob/main/TestesDaRede/Testes:PC1-PC2/Pings.md)
 
