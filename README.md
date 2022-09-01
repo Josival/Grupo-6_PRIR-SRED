@@ -16,7 +16,7 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________________________
 
 ### Tópicos do Projeto
-> [Visualização Geral do Projeto](https://github.com/Josival/TrabalhoRedes/blob/main/Projeto/README.md)
+> [Visão Geral do Projeto](https://github.com/Josival/TrabalhoRedes/blob/main/Projeto/README.md)
 
 #
 
