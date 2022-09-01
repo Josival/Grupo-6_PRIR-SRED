@@ -65,7 +65,7 @@
 
 * ### De VM2-PC4 para VM2-PC1
 
-ping ataide
+      ping ataide
   
 <p align="center">  
 <img src="/Projeto/Figuras/Testes/Ping/vm2-pc4-para-vm2-pc1.png" title="Testes de Ping" width="800" />
