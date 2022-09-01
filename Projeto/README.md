@@ -23,4 +23,4 @@
 
 #
 ### > Considerações Finais
-Ao fim do desenvolvimento do projeto foi possível visualizar um topologia de rede formada por quatro computadores, quatro cabos de rede de par trançado (um quinto com acesso a rede de internet), um switch com 8 domínios de brodcast que trocavam informaçãoes através dos comandos ping e ssh, os quais permitiam uma conexão entre os computadores e as Máquinas Virtuais, podendo assim, acessar todas as máquinas que estavam ligadas a rede.
+Ao fim do desenvolvimento do projeto foi possível verificar um topologia de rede formada por quatro computadores, quatro cabos de rede de par trançado (um quinto com acesso à rede de internet), um switch com 8 domínios de brodcast que trocavam informações através dos comandos ping e ssh, os quais permitiam uma conexão entre os computadores e as Máquinas Virtuais, podendo assim, acessar todas as máquinas que estavam ligadas a rede.
