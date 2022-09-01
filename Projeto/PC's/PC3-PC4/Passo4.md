@@ -8,7 +8,7 @@
 
 #### > Para o êxito da conexão, é necessária uma mudança nas configurações de rede das VMs, o modo ``rede interna`` será substituído para ``Placa em modo Bridge`` 
 
-> Você deve realizar essas configurações nos dois PC's. Como pode ser visualizado nas figuras a seguir:
+> Você deve realizar essas configurações nas quatro VM's dos dois PC's. Como pode ser visualizado nas figuras a seguir:
 
 <p align = "center">
 <img src="/Projeto/Figuras/PC1/Passo4/modobridge.png" title="Conexão entre as VMs Via Cabo Ethernet" width="950" />
