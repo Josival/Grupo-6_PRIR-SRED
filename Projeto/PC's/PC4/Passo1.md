@@ -1,5 +1,5 @@
 # Passo 1 - Criação de Pastas no Computador
-- Para acessar comandos básicos do terminal do Computador, entre neste [diretório](https://github.com/Josival/Grupo-6_PRIR-SRED/blob/main/Projeto/ComandosB%C3%A1sicos.md)
+- Para acessar comandos básicos do terminal, entre neste [diretório](https://github.com/Josival/Grupo-6_PRIR-SRED/blob/main/Projeto/ComandosB%C3%A1sicos.md)
 
 
 ### > Abrir terminal do Computador
