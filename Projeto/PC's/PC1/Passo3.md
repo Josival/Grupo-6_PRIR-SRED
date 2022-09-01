@@ -21,7 +21,7 @@
 <img src="/Projeto/Figuras/PC1/Passo3/vm1-pc1-sudonano.png" title="VM1-PC1-Configurações Iniciais das Máquinas Virtuais" width="950" />
 </p>
      
-#### > Para aplicar as mudanças feitas no comando anterior;
+#### > Para aplicar as mudanças feitas no comando anterior:
      sudo netplan apply
 
 #
@@ -45,7 +45,7 @@
 <img src="/Projeto/Figuras/PC1/Passo3/vm2-pc1-sudonano.png" title="VM2-PC1-Configurações Iniciais das Máquinas Virtuais" width="950" />
 </p>
      
-#### > Para aplicar as mudanças feitas no comando anterior;
+#### > Para aplicar as mudanças feitas no comando anterior:
      sudo netplan apply
 
 #
