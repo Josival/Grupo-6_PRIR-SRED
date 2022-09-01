@@ -27,14 +27,14 @@
       ssh clara@srv-vm1-pc3
 
 <p align="center">  
-<img src="/Projeto/Figuras/Testes/SSH/Ping/vm1-pc2-para-vm1-pc3.png" title="Testes de SSH" width="800" />
+<img src="/Projeto/Figuras/Testes/SSH/vm1-pc2-para-vm1-pc3.png" title="Testes de SSH" width="800" />
 
 * ### De VM2-PC2 para VM2-PC3
   
       ssh leao@srv-vm3-pc3  
   
 <p align="center">  
-<img src="/Projeto/Figuras/Testes/SSH/Ping/vm2-pc2-para-vm2-pc3.png" title="Testes de SSH" width="800" />
+<img src="/Projeto/Figuras/Testes/SSH/vm2-pc2-para-vm2-pc3.png" title="Testes de SSH" width="800" />
 
   
 # Testes de SSH para FQDN 
@@ -44,14 +44,14 @@
       ssh cara1@cara1.grupo6-924.ifalara.net   
   
 <p align="center">  
-<img src="/Projeto/Figuras/Testes/SSH/Ping/vm1-pc3-para-vm1-pc4.png" title="Testes de SSH" width="800" />
+<img src="/Projeto/Figuras/Testes/SSH/vm1-pc3-para-vm1-pc4.png" title="Testes de SSH" width="800" />
 
 * ### De VM2-PC3 para VM2-PC4
 
       ssh cara2@cara2.grupo6-924.ifalara.net  
   
 <p align="center">  
-<img src="/Projeto/Figuras/Testes/SSH/Ping/vm2-pc3-para-vm2-pc4.png" title="Testes de SSH" width="800" />
+<img src="/Projeto/Figuras/Testes/SSH/vm2-pc3-para-vm2-pc4.png" title="Testes de SSH" width="800" />
 
   
 # Testes de SSH para aliase
@@ -61,11 +61,11 @@
       ssh matheus@matheus  
   
 <p align="center">  
-<img src="/Projeto/Figuras/Testes/SSH/Ping/vm1-pc4-para-vm1-pc1.png" title="Testes de SSH" width="800" />
+<img src="/Projeto/Figuras/Testes/SSH/vm1-pc4-para-vm1-pc1.png" title="Testes de SSH" width="800" />
 
 * ### De VM2-PC4 para VM2-PC1
 
       ssh ataide@ataide  
   
 <p align="center">  
-<img src="/Projeto/Figuras/Testes/SSH/Ping/vm2-pc4-para-vm2-pc1.png" title="Testes de SSH" width="800" />
+<img src="/Projeto/Figuras/Testes/SSH/vm2-pc4-para-vm2-pc1.png" title="Testes de SSH" width="800" />
