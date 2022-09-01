@@ -31,7 +31,7 @@
 
 * ### De VM2-PC2 para VM2-PC3
   
-      ssh leao@srv-vm3-pc3  
+      ssh leao@srv-vm2-pc3  
   
 <p align="center">  
 <img src="/Projeto/Figuras/Testes/SSH/vm2-pc2-para-vm2-pc3.png" title="Testes de SSH" width="800" />
