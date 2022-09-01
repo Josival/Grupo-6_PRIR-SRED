@@ -31,7 +31,7 @@
 
 * ### De VM2-PC2 para VM2-PC3
   
-      ping srv-vm1-pc3  
+      ping srv-vm2-pc3  
   
 <p align="center">  
 <img src="/Projeto/Figuras/Testes/Ping/vm2-pc2-para-vm2-pc3.png" title="Testes de Ping" width="800" />
