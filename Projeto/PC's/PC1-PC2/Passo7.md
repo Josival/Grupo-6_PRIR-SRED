@@ -62,7 +62,7 @@ sudo nano /etc/hosts
 ```
 
 
-> Obs.: Colocaremos as configurações que fizemos para nosso grupo, mas você pode colocar da maneira que você desejar configurar
+> Obs.: Definimos e mostramos na tabela acima as configurações que fizemos para nosso grupo, mas você mudá-las da maneira que você desejar.
 
 * Exemplo do arquivo /etc/hosts na VM1:
 
