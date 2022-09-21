@@ -1,6 +1,6 @@
 # Testes de SSH
 
-> #### Para os testes de SSH serão utilizados os IPs, hostnames, FQDNs, aliases da [`Tabela 2`](https://github.com/Josival/Grupo-6_PRIR-SRED/blob/main/Tabelas.md)
+> #### Para os testes de SSH serão utilizados os IPs, hostnames, FQDNs, aliases da [`Tabela 2`](https://github.com/Josival/Grupo-6_PRIR-SRED/blob/main/Tabelas.md#configura%C3%A7%C3%A3o-do-servi%C3%A7o-de-nomes-est%C3%A1ticos)
 
 
 # Testes de SSH para IP
