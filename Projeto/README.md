@@ -19,7 +19,7 @@
 ### > Dicas:
 * Se desejar fazer uma Reconfiguração de teclado para pt-BR ABNT2 no **Terminal da Máquina Virtual**, [clique aqui](https://github.com/alaelson/2022-924-notasdeaula/blob/main/keyboardLayout-pt_Br.md)
 
-* Para a instalação e configuração do VirtualBox, acesse este vídeo: https://www.youtube.com/watch?v=PaDTA4B7K4U
+* Para a instalação e configuração do VirtualBox, acesse este vídeo: [Como Instalar e Configurar o VirtualBox](https://www.youtube.com/watch?v=PaDTA4B7K4U)
 
 #
 ### > Considerações Finais
