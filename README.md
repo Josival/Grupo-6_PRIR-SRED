@@ -1,6 +1,6 @@
 ## PROJETO DE PRIR E SRED - GRUPO 6 - 924 - 2 Bimestre
 
-Repositório destinado para o projeto do segundo bimestre proposto pelo professor [Alaelson Jatoba](https://github.com/alaelson) em seu repositório [labredes2022](https://github.com/alaelson/labredes2022/blob/master/projeto-2b-sred/README.md) para as disciplinas de Projeto e Infraestrutura de Redes e Serviços de Redes
+Repositório destinado para o projeto do segundo bimestre proposto pelo professor [Alaelson Jatoba](https://github.com/alaelson) em seu [repositório](https://github.com/alaelson/2022-924-notasdeaula/blob/main/README.md) para as disciplinas de Projeto e Infraestrutura de Redes e Serviços de Redes
 
 ____________________________________________________________________________________________________________
 
